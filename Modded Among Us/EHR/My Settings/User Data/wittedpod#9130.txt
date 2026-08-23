@@ -1,0 +1,6 @@
+{
+  "Vip": false,
+  "Moderator": false,
+  "Admin": false,
+  "Tag": "<font=\"NotoSansJP-Regular SDF\"><color=#000000>✽ <color=#0A0A0A>B<color=#141414>o<color=#1F1F1F>m<color=#2D2D2D>b<color=#3D3D3D>B<color=#4D4D4D>a<color=#626262>s<color=#7C7C7C>t<color=#969696>i<color=#B0B0B0>c <color=#CACACA>✽ <color=#E4E4E4>|<color=#FFFFFF>| </color></font><color=#00FFFF>"
+}
