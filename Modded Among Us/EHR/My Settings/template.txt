@@ -329,3 +329,6274 @@ FAQ:<size=125%><align=center><b><color=#d50d6c>♡</color> <color=#f89b29>Freque
 <size=75%>Absolutely! Everyone starts somewhere. Just be willing to learn.</color></size>
 <size=75%><color=#f89b29>Q. I still need help.</color></size>
 <size=75%>DM @iam._.steve or @unoxlucky</color> on Discord.</color></size>
+
+lt[hidden]:
+<size=110%><b>Command Name - /lt</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the lobby timer</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/lt</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd lt</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/lt</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+dump[hidden]:
+<size=110%><b>Command Name - /dump</b></size>
+
+<size=93%>Description</size>
+<size=75%>Dumps the log file to the desktop</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/dump</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd dump</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/dump</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+version[hidden]:
+<size=110%><b>Command Name - /version</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the current version of EHR</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/version</b>
+- <b>/v</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd version</b></size>
+<size=75%><b>/cmd v</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/version</b></size>
+<size=75%><b>/v</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+v[hidden]:
+<size=110%><b>Command Name - /version</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the current version of EHR</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/version</b>
+- <b>/v</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd version</b></size>
+<size=75%><b>/cmd v</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/version</b></size>
+<size=75%><b>/v</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+changesetting[hidden]:
+<size=110%><b>Command Name - /changesetting</b></size>
+
+<size=93%>Description</size>
+<size=75%>Change the game settings</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — The setting's name to change (leave blank to view all settings)
+- ? — (leave blank to view what to put here)
+- ? — (leave blank to view what to put here)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/changesetting</b>
+- <b>/cs</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd changesetting [name] [?] [?]</b></size>
+<size=75%><b>/cmd cs [name] [?] [?]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/changesetting [name] [?] [?]</b></size>
+<size=75%><b>/cs [name] [?] [?]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+cs[hidden]:
+<size=110%><b>Command Name - /changesetting</b></size>
+
+<size=93%>Description</size>
+<size=75%>Change the game settings</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — The setting's name to change (leave blank to view all settings)
+- ? — (leave blank to view what to put here)
+- ? — (leave blank to view what to put here)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/changesetting</b>
+- <b>/cs</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd changesetting [name] [?] [?]</b></size>
+<size=75%><b>/cmd cs [name] [?] [?]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/changesetting [name] [?] [?]</b></size>
+<size=75%><b>/cs [name] [?] [?]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+winner[hidden]:
+<size=110%><b>Command Name - /winner</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the winners of the last game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/winner</b>
+- <b>/win</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd winner</b></size>
+<size=75%><b>/cmd win</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/winner</b></size>
+<size=75%><b>/win</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+win[hidden]:
+<size=110%><b>Command Name - /winner</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the winners of the last game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/winner</b>
+- <b>/win</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd winner</b></size>
+<size=75%><b>/cmd win</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/winner</b></size>
+<size=75%><b>/win</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+lastresult[hidden]:
+<size=110%><b>Command Name - /lastresult</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the roles and add-ons of players in the last game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/lastresult</b>
+- <b>/l</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd lastresult</b></size>
+<size=75%><b>/cmd l</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/lastresult</b></size>
+<size=75%><b>/l</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+l[hidden]:
+<size=110%><b>Command Name - /lastresult</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the roles and add-ons of players in the last game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/lastresult</b>
+- <b>/l</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd lastresult</b></size>
+<size=75%><b>/cmd l</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/lastresult</b></size>
+<size=75%><b>/l</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+rename[hidden]:
+<size=110%><b>Command Name - /rename</b></size>
+
+<size=93%>Description</size>
+<size=75%>Gives you a new name</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — Your new name</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/rename</b>
+- <b>/rn</b>
+- <b>/name</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd rename [name]</b></size>
+<size=75%><b>/cmd rn [name]</b></size>
+<size=75%><b>/cmd name [name]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/rename [name]</b></size>
+<size=75%><b>/rn [name]</b></size>
+<size=75%><b>/name [name]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+rn[hidden]:
+<size=110%><b>Command Name - /rename</b></size>
+
+<size=93%>Description</size>
+<size=75%>Gives you a new name</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — Your new name</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/rename</b>
+- <b>/rn</b>
+- <b>/name</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd rename [name]</b></size>
+<size=75%><b>/cmd rn [name]</b></size>
+<size=75%><b>/cmd name [name]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/rename [name]</b></size>
+<size=75%><b>/rn [name]</b></size>
+<size=75%><b>/name [name]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+name[hidden]:
+<size=110%><b>Command Name - /rename</b></size>
+
+<size=93%>Description</size>
+<size=75%>Gives you a new name</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — Your new name</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/rename</b>
+- <b>/rn</b>
+- <b>/name</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd rename [name]</b></size>
+<size=75%><b>/cmd rn [name]</b></size>
+<size=75%><b>/cmd name [name]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/rename [name]</b></size>
+<size=75%><b>/rn [name]</b></size>
+<size=75%><b>/name [name]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+hidename[hidden]:
+<size=110%><b>Command Name - /hidename</b></size>
+
+<size=93%>Description</size>
+<size=75%>Hides your name</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/hidename</b>
+- <b>/hn</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd hidename</b></size>
+<size=75%><b>/cmd hn</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/hidename</b></size>
+<size=75%><b>/hn</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+hn[hidden]:
+<size=110%><b>Command Name - /hidename</b></size>
+
+<size=93%>Description</size>
+<size=75%>Hides your name</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/hidename</b>
+- <b>/hn</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd hidename</b></size>
+<size=75%><b>/cmd hn</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/hidename</b></size>
+<size=75%><b>/hn</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+level[hidden]:
+<size=110%><b>Command Name - /level</b></size>
+
+<size=93%>Description</size>
+<size=75%>Changes your level</size>
+
+<size=93%>Arguments</size>
+<size=75%>- level — Your new level</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/level</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd level [level]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/level [level]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+now[hidden]:
+<size=110%><b>Command Name - /now</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the current settings</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/now</b>
+- <b>/n</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd now</b></size>
+<size=75%><b>/cmd n</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/now</b></size>
+<size=75%><b>/n</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+n[hidden]:
+<size=110%><b>Command Name - /now</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the current settings</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/now</b>
+- <b>/n</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd now</b></size>
+<size=75%><b>/cmd n</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/now</b></size>
+<size=75%><b>/n</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+disconnect[hidden]:
+<size=110%><b>Command Name - /disconnect</b></size>
+
+<size=93%>Description</size>
+<size=75%>Get rid of all players in the specified team</size>
+
+<size=93%>Arguments</size>
+<size=75%>- team — The team to get rid of (imp/crew)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/disconnect</b>
+- <b>/dis</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd disconnect [team]</b></size>
+<size=75%><b>/cmd dis [team]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/disconnect [team]</b></size>
+<size=75%><b>/dis [team]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+dis[hidden]:
+<size=110%><b>Command Name - /disconnect</b></size>
+
+<size=93%>Description</size>
+<size=75%>Get rid of all players in the specified team</size>
+
+<size=93%>Arguments</size>
+<size=75%>- team — The team to get rid of (imp/crew)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/disconnect</b>
+- <b>/dis</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd disconnect [team]</b></size>
+<size=75%><b>/cmd dis [team]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/disconnect [team]</b></size>
+<size=75%><b>/dis [team]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+r[hidden]:
+<size=110%><b>Command Name - /r</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of roles or the description of a specific role</size>
+
+<size=93%>Arguments</size>
+<size=75%>- role — The role to view (leave blank to view all roles)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/r</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd r [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/r [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+up[hidden]:
+<size=110%><b>Command Name - /up</b></size>
+
+<size=93%>Description</size>
+<size=75%>[DEPRECATED] Use /setrole or /setaddon instead</size>
+
+<size=93%>Arguments</size>
+<size=75%>- role — The role to set</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/up</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd up [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/up [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+setrole[hidden]:
+<size=110%><b>Command Name - /setrole</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set a player's role/add-on for the next game</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose role you want to set
+- role — The role to set</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/setrole</b>
+- <b>/setaddon</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd setrole [id] [role]</b></size>
+<size=75%><b>/cmd setaddon [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/setrole [id] [role]</b></size>
+<size=75%><b>/setaddon [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+setaddon[hidden]:
+<size=110%><b>Command Name - /setrole</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set a player's role/add-on for the next game</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose role you want to set
+- role — The role to set</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/setrole</b>
+- <b>/setaddon</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd setrole [id] [role]</b></size>
+<size=75%><b>/cmd setaddon [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/setrole [id] [role]</b></size>
+<size=75%><b>/setaddon [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+help[hidden]:
+<size=110%><b>Command Name - /help</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of commands</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/help</b>
+- <b>/h</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd help</b></size>
+<size=75%><b>/cmd h</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/help</b></size>
+<size=75%><b>/h</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+h[hidden]:
+<size=110%><b>Command Name - /help</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of commands</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/help</b>
+- <b>/h</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd help</b></size>
+<size=75%><b>/cmd h</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/help</b></size>
+<size=75%><b>/h</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+kcount[hidden]:
+<size=110%><b>Command Name - /kcount</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the number of remaining impostors and neutral killers</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/kcount</b>
+- <b>/gamestate</b>
+- <b>/gstate</b>
+- <b>/gs</b>
+- <b>/kc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd kcount</b></size>
+<size=75%><b>/cmd gamestate</b></size>
+<size=75%><b>/cmd gstate</b></size>
+<size=75%><b>/cmd gs</b></size>
+<size=75%><b>/cmd kc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/kcount</b></size>
+<size=75%><b>/gamestate</b></size>
+<size=75%><b>/gstate</b></size>
+<size=75%><b>/gs</b></size>
+<size=75%><b>/kc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gamestate[hidden]:
+<size=110%><b>Command Name - /kcount</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the number of remaining impostors and neutral killers</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/kcount</b>
+- <b>/gamestate</b>
+- <b>/gstate</b>
+- <b>/gs</b>
+- <b>/kc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd kcount</b></size>
+<size=75%><b>/cmd gamestate</b></size>
+<size=75%><b>/cmd gstate</b></size>
+<size=75%><b>/cmd gs</b></size>
+<size=75%><b>/cmd kc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/kcount</b></size>
+<size=75%><b>/gamestate</b></size>
+<size=75%><b>/gstate</b></size>
+<size=75%><b>/gs</b></size>
+<size=75%><b>/kc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gstate[hidden]:
+<size=110%><b>Command Name - /kcount</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the number of remaining impostors and neutral killers</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/kcount</b>
+- <b>/gamestate</b>
+- <b>/gstate</b>
+- <b>/gs</b>
+- <b>/kc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd kcount</b></size>
+<size=75%><b>/cmd gamestate</b></size>
+<size=75%><b>/cmd gstate</b></size>
+<size=75%><b>/cmd gs</b></size>
+<size=75%><b>/cmd kc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/kcount</b></size>
+<size=75%><b>/gamestate</b></size>
+<size=75%><b>/gstate</b></size>
+<size=75%><b>/gs</b></size>
+<size=75%><b>/kc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gs[hidden]:
+<size=110%><b>Command Name - /kcount</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the number of remaining impostors and neutral killers</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/kcount</b>
+- <b>/gamestate</b>
+- <b>/gstate</b>
+- <b>/gs</b>
+- <b>/kc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd kcount</b></size>
+<size=75%><b>/cmd gamestate</b></size>
+<size=75%><b>/cmd gstate</b></size>
+<size=75%><b>/cmd gs</b></size>
+<size=75%><b>/cmd kc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/kcount</b></size>
+<size=75%><b>/gamestate</b></size>
+<size=75%><b>/gstate</b></size>
+<size=75%><b>/gs</b></size>
+<size=75%><b>/kc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+kc[hidden]:
+<size=110%><b>Command Name - /kcount</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the number of remaining impostors and neutral killers</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/kcount</b>
+- <b>/gamestate</b>
+- <b>/gstate</b>
+- <b>/gs</b>
+- <b>/kc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd kcount</b></size>
+<size=75%><b>/cmd gamestate</b></size>
+<size=75%><b>/cmd gstate</b></size>
+<size=75%><b>/cmd gs</b></size>
+<size=75%><b>/cmd kc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/kcount</b></size>
+<size=75%><b>/gamestate</b></size>
+<size=75%><b>/gstate</b></size>
+<size=75%><b>/gs</b></size>
+<size=75%><b>/kc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+addmod[hidden]:
+<size=110%><b>Command Name - /addmod</b></size>
+
+<size=93%>Description</size>
+<size=75%>Makes the specified player a moderator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to make a moderator</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/addmod</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd addmod [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/addmod [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+deletemod[hidden]:
+<size=110%><b>Command Name - /deletemod</b></size>
+
+<size=93%>Description</size>
+<size=75%>Removes the specified player from the list of moderators</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to remove from the list of moderators</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/deletemod</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd deletemod [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/deletemod [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+combo[hidden]:
+<size=110%><b>Command Name - /combo</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set roles and add-ons that always or never spawn together</size>
+
+<size=93%>Arguments</size>
+<size=75%>- mode — add/ban/remove/allow (leave blank to view all combos)
+- role — The name of the main role in 1 word
+- addon — The name of the add-on in 1 word
+- all — Whether to apply to all presets (all/[blank])</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/combo</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd combo [mode] [role] [addon] [all]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/combo [mode] [role] [addon] [all]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+effect[hidden]:
+<size=110%><b>Command Name - /effect</b></size>
+
+<size=93%>Description</size>
+<size=75%>Apply a Randomizer effect to yourself</size>
+
+<size=93%>Arguments</size>
+<size=75%>- effect — The name of the effect to apply</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/effect</b>
+- <b>/eff</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd effect [effect]</b></size>
+<size=75%><b>/cmd eff [effect]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/effect [effect]</b></size>
+<size=75%><b>/eff [effect]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+eff[hidden]:
+<size=110%><b>Command Name - /effect</b></size>
+
+<size=93%>Description</size>
+<size=75%>Apply a Randomizer effect to yourself</size>
+
+<size=93%>Arguments</size>
+<size=75%>- effect — The name of the effect to apply</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/effect</b>
+- <b>/eff</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd effect [effect]</b></size>
+<size=75%><b>/cmd eff [effect]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/effect [effect]</b></size>
+<size=75%><b>/eff [effect]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+afkexempt[hidden]:
+<size=110%><b>Command Name - /afkexempt</b></size>
+
+<size=93%>Description</size>
+<size=75%>Exempt a player from being checked by the AFK detector</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to exempt from AFK detection</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/afkexempt</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd afkexempt [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/afkexempt [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+myrole[hidden]:
+<size=110%><b>Command Name - /myrole</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the description and settings of your role</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/myrole</b>
+- <b>/m</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd myrole</b></size>
+<size=75%><b>/cmd m</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/myrole</b></size>
+<size=75%><b>/m</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+m[hidden]:
+<size=110%><b>Command Name - /myrole</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the description and settings of your role</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/myrole</b>
+- <b>/m</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd myrole</b></size>
+<size=75%><b>/cmd m</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/myrole</b></size>
+<size=75%><b>/m</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+tpout[hidden]:
+<size=110%><b>Command Name - /tpout</b></size>
+
+<size=93%>Description</size>
+<size=75%>Teleport out of the lobby</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/tpout</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd tpout</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/tpout</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+tpin[hidden]:
+<size=110%><b>Command Name - /tpin</b></size>
+
+<size=93%>Description</size>
+<size=75%>Teleport into the lobby</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/tpin</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd tpin</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/tpin</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+template[hidden]:
+<size=110%><b>Command Name - /template</b></size>
+
+<size=93%>Description</size>
+<size=75%>Send a message template (from template.txt)</size>
+
+<size=93%>Arguments</size>
+<size=75%>- tag — The tag of the template to send</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/template</b>
+- <b>/t</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd template [tag]</b></size>
+<size=75%><b>/cmd t [tag]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/template [tag]</b></size>
+<size=75%><b>/t [tag]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+t[hidden]:
+<size=110%><b>Command Name - /template</b></size>
+
+<size=93%>Description</size>
+<size=75%>Send a message template (from template.txt)</size>
+
+<size=93%>Arguments</size>
+<size=75%>- tag — The tag of the template to send</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/template</b>
+- <b>/t</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd template [tag]</b></size>
+<size=75%><b>/cmd t [tag]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/template [tag]</b></size>
+<size=75%><b>/t [tag]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+messagewait[hidden]:
+<size=110%><b>Command Name - /messagewait</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set the buffer time for system messages</size>
+
+<size=93%>Arguments</size>
+<size=75%>- duration — The duration in seconds</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/messagewait</b>
+- <b>/mw</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd messagewait [duration]</b></size>
+<size=75%><b>/cmd mw [duration]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/messagewait [duration]</b></size>
+<size=75%><b>/mw [duration]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mw[hidden]:
+<size=110%><b>Command Name - /messagewait</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set the buffer time for system messages</size>
+
+<size=93%>Arguments</size>
+<size=75%>- duration — The duration in seconds</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/messagewait</b>
+- <b>/mw</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd messagewait [duration]</b></size>
+<size=75%><b>/cmd mw [duration]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/messagewait [duration]</b></size>
+<size=75%><b>/mw [duration]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+death[hidden]:
+<size=110%><b>Command Name - /death</b></size>
+
+<size=93%>Description</size>
+<size=75%>View who killed you (or another player) and their role</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to view the killer of (leave blank for yourself)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/death</b>
+- <b>/d</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd death [id]</b></size>
+<size=75%><b>/cmd d [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/death [id]</b></size>
+<size=75%><b>/d [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+d[hidden]:
+<size=110%><b>Command Name - /death</b></size>
+
+<size=93%>Description</size>
+<size=75%>View who killed you (or another player) and their role</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to view the killer of (leave blank for yourself)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/death</b>
+- <b>/d</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd death [id]</b></size>
+<size=75%><b>/cmd d [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/death [id]</b></size>
+<size=75%><b>/d [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+say[hidden]:
+<size=110%><b>Command Name - /say</b></size>
+
+<size=93%>Description</size>
+<size=75%>Send a message as the host/moderator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- message — The message to send</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/say</b>
+- <b>/s</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd say [message]</b></size>
+<size=75%><b>/cmd s [message]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/say [message]</b></size>
+<size=75%><b>/s [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+s[hidden]:
+<size=110%><b>Command Name - /say</b></size>
+
+<size=93%>Description</size>
+<size=75%>Send a message as the host/moderator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- message — The message to send</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/say</b>
+- <b>/s</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd say [message]</b></size>
+<size=75%><b>/cmd s [message]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/say [message]</b></size>
+<size=75%><b>/s [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+vote[hidden]:
+<size=110%><b>Command Name - /vote</b></size>
+
+<size=93%>Description</size>
+<size=75%>Vote for a player</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to vote for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/vote</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd vote [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/vote [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ask[hidden]:
+<size=110%><b>Command Name - /ask</b></size>
+
+<size=93%>Description</size>
+<size=75%>Ask a question as the Mathematician</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number1 — The first number in the question
+- number2 — The second number in the question</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/ask</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd ask [number1] [number2]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/ask [number1] [number2]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+answer[hidden]:
+<size=110%><b>Command Name - /answer</b></size>
+
+<size=93%>Description</size>
+<size=75%>Answer a math question asked by the Mathematician</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — The answer to the question</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/answer</b>
+- <b>/ans</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd answer [number]</b></size>
+<size=75%><b>/cmd ans [number]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/answer [number]</b></size>
+<size=75%><b>/ans [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ans[hidden]:
+<size=110%><b>Command Name - /answer</b></size>
+
+<size=93%>Description</size>
+<size=75%>Answer a math question asked by the Mathematician</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — The answer to the question</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/answer</b>
+- <b>/ans</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd answer [number]</b></size>
+<size=75%><b>/cmd ans [number]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/answer [number]</b></size>
+<size=75%><b>/ans [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+qa[hidden]:
+<size=110%><b>Command Name - /qa</b></size>
+
+<size=93%>Description</size>
+<size=75%>Answer a question asked by the Quiz Master</size>
+
+<size=93%>Arguments</size>
+<size=75%>- letter — The letter of the answer (A/B/C)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/qa</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd qa [letter]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/qa [letter]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+qs[hidden]:
+<size=110%><b>Command Name - /qs</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the current question asked by the Quiz Master</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/qs</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd qs</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/qs</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+target[hidden]:
+<size=110%><b>Command Name - /target</b></size>
+
+<size=93%>Description</size>
+<size=75%>Target a player as the Ventriloquist</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to target</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/target</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd target [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/target [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+chat[hidden]:
+<size=110%><b>Command Name - /chat</b></size>
+
+<size=93%>Description</size>
+<size=75%>Make your target send a message as the Ventriloquist</size>
+
+<size=93%>Arguments</size>
+<size=75%>- message — The message to make your target send</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/chat</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd chat [message]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/chat [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+check[hidden]:
+<size=110%><b>Command Name - /check</b></size>
+
+<size=93%>Description</size>
+<size=75%>Check if a player has that role as the Inquirer</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to check
+- role — The role or add-on to check for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/check</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd check [id] [role]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/check [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ban[hidden]:
+<size=110%><b>Command Name - /ban</b></size>
+
+<size=93%>Description</size>
+<size=75%>Bans or kicks a player from the lobby</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to ban or kick
+- reason — The reason for the punishment</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/ban</b>
+- <b>/kick</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd ban [id] [reason]</b></size>
+<size=75%><b>/cmd kick [id] [reason]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/ban [id] [reason]</b></size>
+<size=75%><b>/kick [id] [reason]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+kick[hidden]:
+<size=110%><b>Command Name - /ban</b></size>
+
+<size=93%>Description</size>
+<size=75%>Bans or kicks a player from the lobby</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to ban or kick
+- reason — The reason for the punishment</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/ban</b>
+- <b>/kick</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd ban [id] [reason]</b></size>
+<size=75%><b>/cmd kick [id] [reason]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/ban [id] [reason]</b></size>
+<size=75%><b>/kick [id] [reason]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+exe[hidden]:
+<size=110%><b>Command Name - /exe</b></size>
+
+<size=93%>Description</size>
+<size=75%>Executes a player</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to execute</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/exe</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd exe [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/exe [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+kill[hidden]:
+<size=110%><b>Command Name - /kill</b></size>
+
+<size=93%>Description</size>
+<size=75%>Kills a player</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to kill</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/kill</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd kill [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/kill [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+colour[hidden]:
+<size=110%><b>Command Name - /colour</b></size>
+
+<size=93%>Description</size>
+<size=75%>Sets your skin color</size>
+
+<size=93%>Arguments</size>
+<size=75%>- color — The color to set (ex. red, blue, yellow)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/colour</b>
+- <b>/color</b>
+- <b>/cor</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd colour [color]</b></size>
+<size=75%><b>/cmd color [color]</b></size>
+<size=75%><b>/cmd cor [color]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/colour [color]</b></size>
+<size=75%><b>/color [color]</b></size>
+<size=75%><b>/cor [color]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+color[hidden]:
+<size=110%><b>Command Name - /colour</b></size>
+
+<size=93%>Description</size>
+<size=75%>Sets your skin color</size>
+
+<size=93%>Arguments</size>
+<size=75%>- color — The color to set (ex. red, blue, yellow)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/colour</b>
+- <b>/color</b>
+- <b>/cor</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd colour [color]</b></size>
+<size=75%><b>/cmd color [color]</b></size>
+<size=75%><b>/cmd cor [color]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/colour [color]</b></size>
+<size=75%><b>/color [color]</b></size>
+<size=75%><b>/cor [color]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+cor[hidden]:
+<size=110%><b>Command Name - /colour</b></size>
+
+<size=93%>Description</size>
+<size=75%>Sets your skin color</size>
+
+<size=93%>Arguments</size>
+<size=75%>- color — The color to set (ex. red, blue, yellow)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/colour</b>
+- <b>/color</b>
+- <b>/cor</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd colour [color]</b></size>
+<size=75%><b>/cmd color [color]</b></size>
+<size=75%><b>/cmd cor [color]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/colour [color]</b></size>
+<size=75%><b>/color [color]</b></size>
+<size=75%><b>/cor [color]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+id[hidden]:
+<size=110%><b>Command Name - /id</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the IDs of all players</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/id</b>
+- <b>/guesslist</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd id</b></size>
+<size=75%><b>/cmd guesslist</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/id</b></size>
+<size=75%><b>/guesslist</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+guesslist[hidden]:
+<size=110%><b>Command Name - /id</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the IDs of all players</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/id</b>
+- <b>/guesslist</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd id</b></size>
+<size=75%><b>/cmd guesslist</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/id</b></size>
+<size=75%><b>/guesslist</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+changerole[hidden]:
+<size=110%><b>Command Name - /changerole</b></size>
+
+<size=93%>Description</size>
+<size=75%>Changes your role</size>
+
+<size=93%>Arguments</size>
+<size=75%>- role — The role to change to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/changerole</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd changerole [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/changerole [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+end[hidden]:
+<size=110%><b>Command Name - /end</b></size>
+
+<size=93%>Description</size>
+<size=75%>Ends the game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/end</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd end</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/end</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+cosid[hidden]:
+<size=110%><b>Command Name - /cosid</b></size>
+
+<size=93%>Description</size>
+<size=75%>View your cosmetics</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/cosid</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd cosid</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/cosid</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mthy[hidden]:
+<size=110%><b>Command Name - /mthy</b></size>
+
+<size=93%>Description</size>
+<size=75%>Calls a meeting or ends the current meeting</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mthy</b>
+- <b>/mt</b>
+- <b>/hy</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mthy</b></size>
+<size=75%><b>/cmd mt</b></size>
+<size=75%><b>/cmd hy</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mthy</b></size>
+<size=75%><b>/mt</b></size>
+<size=75%><b>/hy</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mt[hidden]:
+<size=110%><b>Command Name - /mthy</b></size>
+
+<size=93%>Description</size>
+<size=75%>Calls a meeting or ends the current meeting</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mthy</b>
+- <b>/mt</b>
+- <b>/hy</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mthy</b></size>
+<size=75%><b>/cmd mt</b></size>
+<size=75%><b>/cmd hy</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mthy</b></size>
+<size=75%><b>/mt</b></size>
+<size=75%><b>/hy</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+hy[hidden]:
+<size=110%><b>Command Name - /mthy</b></size>
+
+<size=93%>Description</size>
+<size=75%>Calls a meeting or ends the current meeting</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mthy</b>
+- <b>/mt</b>
+- <b>/hy</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mthy</b></size>
+<size=75%><b>/cmd mt</b></size>
+<size=75%><b>/cmd hy</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mthy</b></size>
+<size=75%><b>/mt</b></size>
+<size=75%><b>/hy</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+csd[hidden]:
+<size=110%><b>Command Name - /csd</b></size>
+
+<size=93%>Description</size>
+<size=75%>Plays a custom sound</size>
+
+<size=93%>Arguments</size>
+<size=75%>- sound — The sound to play</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/csd</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd csd [sound]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/csd [sound]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+sd[hidden]:
+<size=110%><b>Command Name - /sd</b></size>
+
+<size=93%>Description</size>
+<size=75%>Plays a sound from the game</size>
+
+<size=93%>Arguments</size>
+<size=75%>- sound — The sound to play</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/sd</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd sd [sound]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/sd [sound]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gno[hidden]:
+<size=110%><b>Command Name - /gno</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess The Number mini-game</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — The number to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gno</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death And In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gno [number]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gno [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+poll[hidden]:
+<size=110%><b>Command Name - /poll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Starts a poll</size>
+
+<size=93%>Arguments</size>
+<size=75%>- question — The question to ask. End it with a question mark (?)!
+- answerA — The first answer
+- answerB — The second answer
+- answerC — The third answer (leave blank if not needed)
+- answerD — The fourth answer (leave blank if not needed)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/poll</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd poll [question] [answerA] [answerB] [answerC] [answerD]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/poll [question] [answerA] [answerB] [answerC] [answerD]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+pv[hidden]:
+<size=110%><b>Command Name - /pv</b></size>
+
+<size=93%>Description</size>
+<size=75%>Vote in a poll</size>
+
+<size=93%>Arguments</size>
+<size=75%>- vote — A/B/C/D</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/pv</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd pv [vote]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/pv [vote]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+hm[hidden]:
+<size=110%><b>Command Name - /hm</b></size>
+
+<size=93%>Description</size>
+<size=75%>Send one of the messages as the Messenger</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — 1/2/3</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/hm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd hm [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/hm [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+decree[hidden]:
+<size=110%><b>Command Name - /decree</b></size>
+
+<size=93%>Description</size>
+<size=75%>Use a decree as the President</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — 0/1/2/3/4/5 (leave blank to view all decrees)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/decree</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd decree [number]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/decree [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+addvip[hidden]:
+<size=110%><b>Command Name - /addvip</b></size>
+
+<size=93%>Description</size>
+<size=75%>Add a player to the VIP list</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to add to the VIP list</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/addvip</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd addvip [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/addvip [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+deletevip[hidden]:
+<size=110%><b>Command Name - /deletevip</b></size>
+
+<size=93%>Description</size>
+<size=75%>Remove a player from the VIP list</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to remove from the VIP list</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/deletevip</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd deletevip [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/deletevip [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+assume[hidden]:
+<size=110%><b>Command Name - /assume</b></size>
+
+<size=93%>Description</size>
+<size=75%>Assume how many votes a player will receive as the Assumer</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to assume votes for
+- number — The number of votes to assume</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/assume</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd assume [id] [number]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/assume [id] [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+note[hidden]:
+<size=110%><b>Command Name - /note</b></size>
+
+<size=93%>Description</size>
+<size=75%>Manage your notes as the Journalist</size>
+
+<size=93%>Arguments</size>
+<size=75%>- action — add/remove/clear/view
+- ? — The note to add, the index of the note to remove, or blank</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/note</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd note [action] [?]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/note [action] [?]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+os[hidden]:
+<size=110%><b>Command Name - /os</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set the spawn chance of a role</size>
+
+<size=93%>Arguments</size>
+<size=75%>- chance — The spawn chance for the role
+- role — The role to set the spawn chance for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/os</b>
+- <b>/optionset</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd os [chance] [role]</b></size>
+<size=75%><b>/cmd optionset [chance] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/os [chance] [role]</b></size>
+<size=75%><b>/optionset [chance] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+optionset[hidden]:
+<size=110%><b>Command Name - /os</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set the spawn chance of a role</size>
+
+<size=93%>Arguments</size>
+<size=75%>- chance — The spawn chance for the role
+- role — The role to set the spawn chance for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/os</b>
+- <b>/optionset</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd os [chance] [role]</b></size>
+<size=75%><b>/cmd optionset [chance] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/os [chance] [role]</b></size>
+<size=75%><b>/optionset [chance] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+negotiation[hidden]:
+<size=110%><b>Command Name - /negotiation</b></size>
+
+<size=93%>Description</size>
+<size=75%>Pick your negotiation method when asked by the Negotiator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — The index of the picked negotiation method (0/1/2/3)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/negotiation</b>
+- <b>/neg</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd negotiation [number]</b></size>
+<size=75%><b>/cmd neg [number]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/negotiation [number]</b></size>
+<size=75%><b>/neg [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+neg[hidden]:
+<size=110%><b>Command Name - /negotiation</b></size>
+
+<size=93%>Description</size>
+<size=75%>Pick your negotiation method when asked by the Negotiator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — The index of the picked negotiation method (0/1/2/3)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/negotiation</b>
+- <b>/neg</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd negotiation [number]</b></size>
+<size=75%><b>/cmd neg [number]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/negotiation [number]</b></size>
+<size=75%><b>/neg [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mute[hidden]:
+<size=110%><b>Command Name - /mute</b></size>
+
+<size=93%>Description</size>
+<size=75%>Mute someone. Muted players can't chat. Everyone is unmuted on game start.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to mute
+- duration — The duration in seconds (leaving blank => 60s)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mute</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death And In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mute [id] [duration]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mute [id] [duration]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+unmute[hidden]:
+<size=110%><b>Command Name - /unmute</b></size>
+
+<size=93%>Description</size>
+<size=75%>Unmute someone.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to unmute</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/unmute</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd unmute [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/unmute [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+draftstart[hidden]:
+<size=110%><b>Command Name - /draftstart</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start drafting, where players may choose their roles for the next game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/draftstart</b>
+- <b>/ds</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd draftstart</b></size>
+<size=75%><b>/cmd ds</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/draftstart</b></size>
+<size=75%><b>/ds</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ds[hidden]:
+<size=110%><b>Command Name - /draftstart</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start drafting, where players may choose their roles for the next game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/draftstart</b>
+- <b>/ds</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd draftstart</b></size>
+<size=75%><b>/cmd ds</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/draftstart</b></size>
+<size=75%><b>/ds</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+draftdescription[hidden]:
+<size=110%><b>Command Name - /draftdescription</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the description of one of the roles you got in the draft.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- index — The number in the drafting message of the role to view the description of</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/draftdescription</b>
+- <b>/dd</b>
+- <b>/draftdesc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd draftdescription [index]</b></size>
+<size=75%><b>/cmd dd [index]</b></size>
+<size=75%><b>/cmd draftdesc [index]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/draftdescription [index]</b></size>
+<size=75%><b>/dd [index]</b></size>
+<size=75%><b>/draftdesc [index]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+dd[hidden]:
+<size=110%><b>Command Name - /draftdescription</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the description of one of the roles you got in the draft.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- index — The number in the drafting message of the role to view the description of</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/draftdescription</b>
+- <b>/dd</b>
+- <b>/draftdesc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd draftdescription [index]</b></size>
+<size=75%><b>/cmd dd [index]</b></size>
+<size=75%><b>/cmd draftdesc [index]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/draftdescription [index]</b></size>
+<size=75%><b>/dd [index]</b></size>
+<size=75%><b>/draftdesc [index]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+draftdesc[hidden]:
+<size=110%><b>Command Name - /draftdescription</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the description of one of the roles you got in the draft.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- index — The number in the drafting message of the role to view the description of</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/draftdescription</b>
+- <b>/dd</b>
+- <b>/draftdesc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd draftdescription [index]</b></size>
+<size=75%><b>/cmd dd [index]</b></size>
+<size=75%><b>/cmd draftdesc [index]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/draftdescription [index]</b></size>
+<size=75%><b>/dd [index]</b></size>
+<size=75%><b>/draftdesc [index]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+draft[hidden]:
+<size=110%><b>Command Name - /draft</b></size>
+
+<size=93%>Description</size>
+<size=75%>Choose a role in the draft</size>
+
+<size=93%>Arguments</size>
+<size=75%>- number — The number of the role to choose</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/draft</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd draft [number]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/draft [number]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+readycheck[hidden]:
+<size=110%><b>Command Name - /readycheck</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a ready check (check who is AFK) (results displayed after 30s)</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/readycheck</b>
+- <b>/rc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd readycheck</b></size>
+<size=75%><b>/cmd rc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/readycheck</b></size>
+<size=75%><b>/rc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+rc[hidden]:
+<size=110%><b>Command Name - /readycheck</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a ready check (check who is AFK) (results displayed after 30s)</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/readycheck</b>
+- <b>/rc</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd readycheck</b></size>
+<size=75%><b>/cmd rc</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/readycheck</b></size>
+<size=75%><b>/rc</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ready[hidden]:
+<size=110%><b>Command Name - /ready</b></size>
+
+<size=93%>Description</size>
+<size=75%>Mark yourself as ready</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/ready</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd ready</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/ready</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+enableallroles[hidden]:
+<size=110%><b>Command Name - /enableallroles</b></size>
+
+<size=93%>Description</size>
+<size=75%>Enables all roles and add-ons</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/enableallroles</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd enableallroles</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/enableallroles</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+achievements[hidden]:
+<size=110%><b>Command Name - /achievements</b></size>
+
+<size=93%>Description</size>
+<size=75%>See which achievements you have unlocked and which you haven't</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/achievements</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd achievements</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/achievements</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+deathnote[hidden]:
+<size=110%><b>Command Name - /deathnote</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess someone's real name as the Note Killer.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — The real name to guess. If it's correct, you kill the player with this name.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/deathnote</b>
+- <b>/dn</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd deathnote [name]</b></size>
+<size=75%><b>/cmd dn [name]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/deathnote [name]</b></size>
+<size=75%><b>/dn [name]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+dn[hidden]:
+<size=110%><b>Command Name - /deathnote</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess someone's real name as the Note Killer.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- name — The real name to guess. If it's correct, you kill the player with this name.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/deathnote</b>
+- <b>/dn</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd deathnote [name]</b></size>
+<size=75%><b>/cmd dn [name]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/deathnote [name]</b></size>
+<size=75%><b>/dn [name]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+whisper[hidden]:
+<size=110%><b>Command Name - /whisper</b></size>
+
+<size=93%>Description</size>
+<size=75%>Whisper a message privately to the specified players.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- ids — The players' IDs to whisper to, separated by commas (no space)
+- message — The message to whisper</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/whisper</b>
+- <b>/w</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd whisper [ids] [message]</b></size>
+<size=75%><b>/cmd w [ids] [message]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/whisper [ids] [message]</b></size>
+<size=75%><b>/w [ids] [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+w[hidden]:
+<size=110%><b>Command Name - /whisper</b></size>
+
+<size=93%>Description</size>
+<size=75%>Whisper a message privately to the specified players.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- ids — The players' IDs to whisper to, separated by commas (no space)
+- message — The message to whisper</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/whisper</b>
+- <b>/w</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd whisper [ids] [message]</b></size>
+<size=75%><b>/cmd w [ids] [message]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/whisper [ids] [message]</b></size>
+<size=75%><b>/w [ids] [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+hwhisper[hidden]:
+<size=110%><b>Command Name - /hwhisper</b></size>
+
+<size=93%>Description</size>
+<size=75%>Whisper a helping message to a player as the Host.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to whisper the help to
+- message — The helping message to whisper</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/hwhisper</b>
+- <b>/hw</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd hwhisper [id] [message]</b></size>
+<size=75%><b>/cmd hw [id] [message]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/hwhisper [id] [message]</b></size>
+<size=75%><b>/hw [id] [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+hw[hidden]:
+<size=110%><b>Command Name - /hwhisper</b></size>
+
+<size=93%>Description</size>
+<size=75%>Whisper a helping message to a player as the Host.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to whisper the help to
+- message — The helping message to whisper</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/hwhisper</b>
+- <b>/hw</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd hwhisper [id] [message]</b></size>
+<size=75%><b>/cmd hw [id] [message]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/hwhisper [id] [message]</b></size>
+<size=75%><b>/hw [id] [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+spectate[hidden]:
+<size=110%><b>Command Name - /spectate</b></size>
+
+<size=93%>Description</size>
+<size=75%>Makes you a spectator for the next game. You should just enable Game Master as the host.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID who will be forced to spectate (leave blank to use it on yourself)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/spectate</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd spectate [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/spectate [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+anagram[hidden]:
+<size=110%><b>Command Name - /anagram</b></size>
+
+<size=93%>Description</size>
+<size=75%>Get a random scrambled word, then try to guess the original word.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/anagram</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death And In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd anagram</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/anagram</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+rolelist[hidden]:
+<size=110%><b>Command Name - /rolelist</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the limits of how many of each faction and subcategory of roles will spawn.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/rolelist</b>
+- <b>/rl</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd rolelist</b></size>
+<size=75%><b>/cmd rl</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/rolelist</b></size>
+<size=75%><b>/rl</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+rl[hidden]:
+<size=110%><b>Command Name - /rolelist</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the limits of how many of each faction and subcategory of roles will spawn.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/rolelist</b>
+- <b>/rl</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd rolelist</b></size>
+<size=75%><b>/cmd rl</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/rolelist</b></size>
+<size=75%><b>/rl</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+jailtalk[hidden]:
+<size=110%><b>Command Name - /jailtalk</b></size>
+
+<size=93%>Description</size>
+<size=75%>Talk to the Jailor as a jailed player or vice versa.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- message — The message to send to the Jailor/jailed player</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/jailtalk</b>
+- <b>/jt</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd jailtalk [message]</b></size>
+<size=75%><b>/cmd jt [message]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/jailtalk [message]</b></size>
+<size=75%><b>/jt [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+jt[hidden]:
+<size=110%><b>Command Name - /jailtalk</b></size>
+
+<size=93%>Description</size>
+<size=75%>Talk to the Jailor as a jailed player or vice versa.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- message — The message to send to the Jailor/jailed player</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/jailtalk</b>
+- <b>/jt</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd jailtalk [message]</b></size>
+<size=75%><b>/cmd jt [message]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/jailtalk [message]</b></size>
+<size=75%><b>/jt [message]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gamemodelist[hidden]:
+<size=110%><b>Command Name - /gamemodelist</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of all game modes in the mod.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodelist</b>
+- <b>/gm</b>
+- <b>/gml</b>
+- <b>/gamemodes</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodelist</b></size>
+<size=75%><b>/cmd gm</b></size>
+<size=75%><b>/cmd gml</b></size>
+<size=75%><b>/cmd gamemodes</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodelist</b></size>
+<size=75%><b>/gm</b></size>
+<size=75%><b>/gml</b></size>
+<size=75%><b>/gamemodes</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gm[hidden]:
+<size=110%><b>Command Name - /gamemodelist</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of all game modes in the mod.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodelist</b>
+- <b>/gm</b>
+- <b>/gml</b>
+- <b>/gamemodes</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodelist</b></size>
+<size=75%><b>/cmd gm</b></size>
+<size=75%><b>/cmd gml</b></size>
+<size=75%><b>/cmd gamemodes</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodelist</b></size>
+<size=75%><b>/gm</b></size>
+<size=75%><b>/gml</b></size>
+<size=75%><b>/gamemodes</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gml[hidden]:
+<size=110%><b>Command Name - /gamemodelist</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of all game modes in the mod.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodelist</b>
+- <b>/gm</b>
+- <b>/gml</b>
+- <b>/gamemodes</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodelist</b></size>
+<size=75%><b>/cmd gm</b></size>
+<size=75%><b>/cmd gml</b></size>
+<size=75%><b>/cmd gamemodes</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodelist</b></size>
+<size=75%><b>/gm</b></size>
+<size=75%><b>/gml</b></size>
+<size=75%><b>/gamemodes</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gamemodes[hidden]:
+<size=110%><b>Command Name - /gamemodelist</b></size>
+
+<size=93%>Description</size>
+<size=75%>View the list of all game modes in the mod.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodelist</b>
+- <b>/gm</b>
+- <b>/gml</b>
+- <b>/gamemodes</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodelist</b></size>
+<size=75%><b>/cmd gm</b></size>
+<size=75%><b>/cmd gml</b></size>
+<size=75%><b>/cmd gamemodes</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodelist</b></size>
+<size=75%><b>/gm</b></size>
+<size=75%><b>/gml</b></size>
+<size=75%><b>/gamemodes</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gamemodepoll[hidden]:
+<size=110%><b>Command Name - /gamemodepoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next game mode.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodepoll</b>
+- <b>/gmp</b>
+- <b>/gmpoll</b>
+- <b>/pollgm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodepoll</b></size>
+<size=75%><b>/cmd gmp</b></size>
+<size=75%><b>/cmd gmpoll</b></size>
+<size=75%><b>/cmd pollgm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodepoll</b></size>
+<size=75%><b>/gmp</b></size>
+<size=75%><b>/gmpoll</b></size>
+<size=75%><b>/pollgm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gmp[hidden]:
+<size=110%><b>Command Name - /gamemodepoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next game mode.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodepoll</b>
+- <b>/gmp</b>
+- <b>/gmpoll</b>
+- <b>/pollgm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodepoll</b></size>
+<size=75%><b>/cmd gmp</b></size>
+<size=75%><b>/cmd gmpoll</b></size>
+<size=75%><b>/cmd pollgm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodepoll</b></size>
+<size=75%><b>/gmp</b></size>
+<size=75%><b>/gmpoll</b></size>
+<size=75%><b>/pollgm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+gmpoll[hidden]:
+<size=110%><b>Command Name - /gamemodepoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next game mode.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodepoll</b>
+- <b>/gmp</b>
+- <b>/gmpoll</b>
+- <b>/pollgm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodepoll</b></size>
+<size=75%><b>/cmd gmp</b></size>
+<size=75%><b>/cmd gmpoll</b></size>
+<size=75%><b>/cmd pollgm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodepoll</b></size>
+<size=75%><b>/gmp</b></size>
+<size=75%><b>/gmpoll</b></size>
+<size=75%><b>/pollgm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+pollgm[hidden]:
+<size=110%><b>Command Name - /gamemodepoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next game mode.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/gamemodepoll</b>
+- <b>/gmp</b>
+- <b>/gmpoll</b>
+- <b>/pollgm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd gamemodepoll</b></size>
+<size=75%><b>/cmd gmp</b></size>
+<size=75%><b>/cmd gmpoll</b></size>
+<size=75%><b>/cmd pollgm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/gamemodepoll</b></size>
+<size=75%><b>/gmp</b></size>
+<size=75%><b>/gmpoll</b></size>
+<size=75%><b>/pollgm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mappoll[hidden]:
+<size=110%><b>Command Name - /mappoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next map.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mappoll</b>
+- <b>/mp</b>
+- <b>/mpoll</b>
+- <b>/pollm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mappoll</b></size>
+<size=75%><b>/cmd mp</b></size>
+<size=75%><b>/cmd mpoll</b></size>
+<size=75%><b>/cmd pollm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mappoll</b></size>
+<size=75%><b>/mp</b></size>
+<size=75%><b>/mpoll</b></size>
+<size=75%><b>/pollm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mp[hidden]:
+<size=110%><b>Command Name - /mappoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next map.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mappoll</b>
+- <b>/mp</b>
+- <b>/mpoll</b>
+- <b>/pollm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mappoll</b></size>
+<size=75%><b>/cmd mp</b></size>
+<size=75%><b>/cmd mpoll</b></size>
+<size=75%><b>/cmd pollm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mappoll</b></size>
+<size=75%><b>/mp</b></size>
+<size=75%><b>/mpoll</b></size>
+<size=75%><b>/pollm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mpoll[hidden]:
+<size=110%><b>Command Name - /mappoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next map.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mappoll</b>
+- <b>/mp</b>
+- <b>/mpoll</b>
+- <b>/pollm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mappoll</b></size>
+<size=75%><b>/cmd mp</b></size>
+<size=75%><b>/cmd mpoll</b></size>
+<size=75%><b>/cmd pollm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mappoll</b></size>
+<size=75%><b>/mp</b></size>
+<size=75%><b>/mpoll</b></size>
+<size=75%><b>/pollm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+pollm[hidden]:
+<size=110%><b>Command Name - /mappoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next map.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/mappoll</b>
+- <b>/mp</b>
+- <b>/mpoll</b>
+- <b>/pollm</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd mappoll</b></size>
+<size=75%><b>/cmd mp</b></size>
+<size=75%><b>/cmd mpoll</b></size>
+<size=75%><b>/cmd pollm</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/mappoll</b></size>
+<size=75%><b>/mp</b></size>
+<size=75%><b>/mpoll</b></size>
+<size=75%><b>/pollm</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+presetpoll[hidden]:
+<size=110%><b>Command Name - /presetpoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next preset.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/presetpoll</b>
+- <b>/ppoll</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd presetpoll</b></size>
+<size=75%><b>/cmd ppoll</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/presetpoll</b></size>
+<size=75%><b>/ppoll</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ppoll[hidden]:
+<size=110%><b>Command Name - /presetpoll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Start a poll to vote for the next preset.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/presetpoll</b>
+- <b>/ppoll</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd presetpoll</b></size>
+<size=75%><b>/cmd ppoll</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/presetpoll</b></size>
+<size=75%><b>/ppoll</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+changepreset[hidden]:
+<size=110%><b>Command Name - /changepreset</b></size>
+
+<size=93%>Description</size>
+<size=75%>Switch the active preset to the specified preset number.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- preset — The preset number (1-20) to switch to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/changepreset</b>
+- <b>/presetchange</b>
+- <b>/chp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd changepreset [preset]</b></size>
+<size=75%><b>/cmd presetchange [preset]</b></size>
+<size=75%><b>/cmd chp [preset]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/changepreset [preset]</b></size>
+<size=75%><b>/presetchange [preset]</b></size>
+<size=75%><b>/chp [preset]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+presetchange[hidden]:
+<size=110%><b>Command Name - /changepreset</b></size>
+
+<size=93%>Description</size>
+<size=75%>Switch the active preset to the specified preset number.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- preset — The preset number (1-20) to switch to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/changepreset</b>
+- <b>/presetchange</b>
+- <b>/chp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd changepreset [preset]</b></size>
+<size=75%><b>/cmd presetchange [preset]</b></size>
+<size=75%><b>/cmd chp [preset]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/changepreset [preset]</b></size>
+<size=75%><b>/presetchange [preset]</b></size>
+<size=75%><b>/chp [preset]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+chp[hidden]:
+<size=110%><b>Command Name - /changepreset</b></size>
+
+<size=93%>Description</size>
+<size=75%>Switch the active preset to the specified preset number.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- preset — The preset number (1-20) to switch to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/changepreset</b>
+- <b>/presetchange</b>
+- <b>/chp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd changepreset [preset]</b></size>
+<size=75%><b>/cmd presetchange [preset]</b></size>
+<size=75%><b>/cmd chp [preset]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/changepreset [preset]</b></size>
+<size=75%><b>/presetchange [preset]</b></size>
+<size=75%><b>/chp [preset]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+eightball[hidden]:
+<size=110%><b>Command Name - /eightball</b></size>
+
+<size=93%>Description</size>
+<size=75%>Ask the magic 8-ball a question.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- question — The question to ask</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/eightball</b>
+- <b>/8ball</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd eightball [question]</b></size>
+<size=75%><b>/cmd 8ball [question]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/eightball [question]</b></size>
+<size=75%><b>/8ball [question]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+8ball[hidden]:
+<size=110%><b>Command Name - /eightball</b></size>
+
+<size=93%>Description</size>
+<size=75%>Ask the magic 8-ball a question.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- question — The question to ask</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/eightball</b>
+- <b>/8ball</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd eightball [question]</b></size>
+<size=75%><b>/cmd 8ball [question]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/eightball [question]</b></size>
+<size=75%><b>/8ball [question]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+addtag[hidden]:
+<size=110%><b>Command Name - /addtag</b></size>
+
+<size=93%>Description</size>
+<size=75%>Add a tag to a player (visible in YOUR lobbies only) (appears before, in-line with the name).</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to add a tag to
+- color — The color of the tag (format: hex, without the leading # (example: 00ffa5))
+- tag — The tag to add (you can use HTML tags) (don't forget a separator at the end)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/addtag</b>
+- <b>/createtag</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd addtag [id] [color] [tag]</b></size>
+<size=75%><b>/cmd createtag [id] [color] [tag]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/addtag [id] [color] [tag]</b></size>
+<size=75%><b>/createtag [id] [color] [tag]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+createtag[hidden]:
+<size=110%><b>Command Name - /addtag</b></size>
+
+<size=93%>Description</size>
+<size=75%>Add a tag to a player (visible in YOUR lobbies only) (appears before, in-line with the name).</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to add a tag to
+- color — The color of the tag (format: hex, without the leading # (example: 00ffa5))
+- tag — The tag to add (you can use HTML tags) (don't forget a separator at the end)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/addtag</b>
+- <b>/createtag</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd addtag [id] [color] [tag]</b></size>
+<size=75%><b>/cmd createtag [id] [color] [tag]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/addtag [id] [color] [tag]</b></size>
+<size=75%><b>/createtag [id] [color] [tag]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+deletetag[hidden]:
+<size=110%><b>Command Name - /deletetag</b></size>
+
+<size=93%>Description</size>
+<size=75%>Delete a tag from a player.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to delete the tag from</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/deletetag</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd deletetag [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/deletetag [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+daybreak[hidden]:
+<size=110%><b>Command Name - /daybreak</b></size>
+
+<size=93%>Description</size>
+<size=75%>Call daybreak for the current meeting as the Starspawn.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/daybreak</b>
+- <b>/db</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd daybreak</b></size>
+<size=75%><b>/cmd db</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/daybreak</b></size>
+<size=75%><b>/db</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+db[hidden]:
+<size=110%><b>Command Name - /daybreak</b></size>
+
+<size=93%>Description</size>
+<size=75%>Call daybreak for the current meeting as the Starspawn.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/daybreak</b>
+- <b>/db</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd daybreak</b></size>
+<size=75%><b>/cmd db</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/daybreak</b></size>
+<size=75%><b>/db</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+fix[hidden]:
+<size=110%><b>Command Name - /fix</b></size>
+
+<size=93%>Description</size>
+<size=75%>Fixes the black screen bug for a specific player.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to fix the black screen bug for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/fix</b>
+- <b>/blackscreenfix</b>
+- <b>/fixblackscreen</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd fix [id]</b></size>
+<size=75%><b>/cmd blackscreenfix [id]</b></size>
+<size=75%><b>/cmd fixblackscreen [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/fix [id]</b></size>
+<size=75%><b>/blackscreenfix [id]</b></size>
+<size=75%><b>/fixblackscreen [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+blackscreenfix[hidden]:
+<size=110%><b>Command Name - /fix</b></size>
+
+<size=93%>Description</size>
+<size=75%>Fixes the black screen bug for a specific player.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to fix the black screen bug for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/fix</b>
+- <b>/blackscreenfix</b>
+- <b>/fixblackscreen</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd fix [id]</b></size>
+<size=75%><b>/cmd blackscreenfix [id]</b></size>
+<size=75%><b>/cmd fixblackscreen [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/fix [id]</b></size>
+<size=75%><b>/blackscreenfix [id]</b></size>
+<size=75%><b>/fixblackscreen [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+fixblackscreen[hidden]:
+<size=110%><b>Command Name - /fix</b></size>
+
+<size=93%>Description</size>
+<size=75%>Fixes the black screen bug for a specific player.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to fix the black screen bug for</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/fix</b>
+- <b>/blackscreenfix</b>
+- <b>/fixblackscreen</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd fix [id]</b></size>
+<size=75%><b>/cmd blackscreenfix [id]</b></size>
+<size=75%><b>/cmd fixblackscreen [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/fix [id]</b></size>
+<size=75%><b>/blackscreenfix [id]</b></size>
+<size=75%><b>/fixblackscreen [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+xor[hidden]:
+<size=110%><b>Command Name - /xor</b></size>
+
+<size=93%>Description</size>
+<size=75%>Specify 2 roles that will never spawn in the same game.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- role — A main role that will never spawn in the same game with the other role
+- role — A main role that will never spawn in the same game with the other role</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/xor</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd xor [role] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/xor [role] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+chemistinfo[hidden]:
+<size=110%><b>Command Name - /chemistinfo</b></size>
+
+<size=93%>Description</size>
+<size=75%>Show all processes available for the Chemist role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/chemistinfo</b>
+- <b>/ci</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd chemistinfo</b></size>
+<size=75%><b>/cmd ci</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/chemistinfo</b></size>
+<size=75%><b>/ci</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ci[hidden]:
+<size=110%><b>Command Name - /chemistinfo</b></size>
+
+<size=93%>Description</size>
+<size=75%>Show all processes available for the Chemist role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/chemistinfo</b>
+- <b>/ci</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd chemistinfo</b></size>
+<size=75%><b>/cmd ci</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/chemistinfo</b></size>
+<size=75%><b>/ci</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+forge[hidden]:
+<size=110%><b>Command Name - /forge</b></size>
+
+<size=93%>Description</size>
+<size=75%>As the Forger, forge a fake role for a player.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to forge a fake role for
+- role — The fake role to forge</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/forge</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd forge [id] [role]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/forge [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+choose[hidden]:
+<size=110%><b>Command Name - /choose</b></size>
+
+<size=93%>Description</size>
+<size=75%>Choose your role as the Changeling, or as the Pawn after completing all tasks.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- role — The role to choose</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/choose</b>
+- <b>/pick</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd choose [role]</b></size>
+<size=75%><b>/cmd pick [role]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/choose [role]</b></size>
+<size=75%><b>/pick [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+pick[hidden]:
+<size=110%><b>Command Name - /choose</b></size>
+
+<size=93%>Description</size>
+<size=75%>Choose your role as the Changeling, or as the Pawn after completing all tasks.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- role — The role to choose</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/choose</b>
+- <b>/pick</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd choose [role]</b></size>
+<size=75%><b>/cmd pick [role]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/choose [role]</b></size>
+<size=75%><b>/pick [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+*CommandForms.Mark[hidden]:
+<size=110%><b>Command Name - /*CommandForms.Mark</b></size>
+
+<size=93%>Description</size>
+<size=75%>Mark a player as your target as Markseeker.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to mark</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/*CommandForms.Mark</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd *CommandForms.Mark [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/*CommandForms.Mark [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+copypreset[hidden]:
+<size=110%><b>Command Name - /copypreset</b></size>
+
+<size=93%>Description</size>
+<size=75%>Copy all settings from a preset to another preset.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- sourcepreset — The preset to copy all settings from
+- targetpreset — The preset to paste all settings to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/copypreset</b>
+- <b>/presetcopy</b>
+- <b>/cpp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd copypreset [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cmd presetcopy [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cmd cpp [sourcepreset] [targetpreset]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/copypreset [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/presetcopy [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cpp [sourcepreset] [targetpreset]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+presetcopy[hidden]:
+<size=110%><b>Command Name - /copypreset</b></size>
+
+<size=93%>Description</size>
+<size=75%>Copy all settings from a preset to another preset.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- sourcepreset — The preset to copy all settings from
+- targetpreset — The preset to paste all settings to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/copypreset</b>
+- <b>/presetcopy</b>
+- <b>/cpp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd copypreset [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cmd presetcopy [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cmd cpp [sourcepreset] [targetpreset]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/copypreset [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/presetcopy [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cpp [sourcepreset] [targetpreset]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+cpp[hidden]:
+<size=110%><b>Command Name - /copypreset</b></size>
+
+<size=93%>Description</size>
+<size=75%>Copy all settings from a preset to another preset.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- sourcepreset — The preset to copy all settings from
+- targetpreset — The preset to paste all settings to</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/copypreset</b>
+- <b>/presetcopy</b>
+- <b>/cpp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd copypreset [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cmd presetcopy [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cmd cpp [sourcepreset] [targetpreset]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/copypreset [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/presetcopy [sourcepreset] [targetpreset]</b></size>
+<size=75%><b>/cpp [sourcepreset] [targetpreset]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+addadmin[hidden]:
+<size=110%><b>Command Name - /addadmin</b></size>
+
+<size=93%>Description</size>
+<size=75%>Add a player to the list of admins</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to add to the list of admins</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/addadmin</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd addadmin [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/addadmin [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+deleteadmin[hidden]:
+<size=110%><b>Command Name - /deleteadmin</b></size>
+
+<size=93%>Description</size>
+<size=75%>Remove a player from the list of admins</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to remove from the list of admins</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/deleteadmin</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd deleteadmin [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/deleteadmin [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+votestart[hidden]:
+<size=110%><b>Command Name - /votestart</b></size>
+
+<size=93%>Description</size>
+<size=75%>Vote to start the game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/votestart</b>
+- <b>/vs</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd votestart</b></size>
+<size=75%><b>/cmd vs</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/votestart</b></size>
+<size=75%><b>/vs</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+vs[hidden]:
+<size=110%><b>Command Name - /votestart</b></size>
+
+<size=93%>Description</size>
+<size=75%>Vote to start the game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/votestart</b>
+- <b>/vs</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd votestart</b></size>
+<size=75%><b>/cmd vs</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/votestart</b></size>
+<size=75%><b>/vs</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+imitate[hidden]:
+<size=110%><b>Command Name - /imitate</b></size>
+
+<size=93%>Description</size>
+<size=75%>Imitate a dead player's role as the Imitator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The dead player's ID to imitate the role of</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/imitate</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd imitate [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/imitate [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+retribute[hidden]:
+<size=110%><b>Command Name - /retribute</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess who killed the player you camped as the Retributionist</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The potential killer's ID to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/retribute</b>
+- <b>/ret</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd retribute [id]</b></size>
+<size=75%><b>/cmd ret [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/retribute [id]</b></size>
+<size=75%><b>/ret [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ret[hidden]:
+<size=110%><b>Command Name - /retribute</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess who killed the player you camped as the Retributionist</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The potential killer's ID to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/retribute</b>
+- <b>/ret</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd retribute [id]</b></size>
+<size=75%><b>/cmd ret [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/retribute [id]</b></size>
+<size=75%><b>/ret [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+revive[hidden]:
+<size=110%><b>Command Name - /revive</b></size>
+
+<size=93%>Description</size>
+<size=75%>Revives a dead player. Requires special access or No Game End enabled.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The dead player's ID to revive</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/revive</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd revive [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/revive [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+select[hidden]:
+<size=110%><b>Command Name - /select</b></size>
+
+<size=93%>Description</size>
+<size=75%>Select your impostor partner and their role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to select as your impostor partner
+- role — The role to select for your impostor partner</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/select</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd select [id] [role]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/select [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+uiscale[hidden]:
+<size=110%><b>Command Name - /uiscale</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set the scale of the buttons in the UI</size>
+
+<size=93%>Arguments</size>
+<size=75%>- scale — The scale to set (1.0 = default, 0.5 = half size, 2.0 = double size)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/uiscale</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Modded Clients</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd uiscale [scale]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/uiscale [scale]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+fabricate[hidden]:
+<size=110%><b>Command Name - /fabricate</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set a fake death reason for your next kill as the Fabricator</size>
+
+<size=93%>Arguments</size>
+<size=75%>- deathreason — The fake death reason (must be available in the mod)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/fabricate</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd fabricate [deathreason]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/fabricate [deathreason]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+start[hidden]:
+<size=110%><b>Command Name - /start</b></size>
+
+<size=93%>Description</size>
+<size=75%>Starts the game</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/start</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host, Moderators, And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd start</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/start</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+startnow[hidden]:
+<size=110%><b>Command Name - /startnow</b></size>
+
+<size=93%>Description</size>
+<size=75%>Starts the game immediately, without the countdown</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/startnow</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Host And Admins</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Lobby</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd startnow</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/startnow</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+summon[hidden]:
+<size=110%><b>Command Name - /summon</b></size>
+
+<size=93%>Description</size>
+<size=75%>Summon a player to kill for you as the Summoner</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to summon (revive) after the meeting</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/summon</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd summon [id]</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/summon [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+coveninfo[hidden]:
+<size=110%><b>Command Name - /coveninfo</b></size>
+
+<size=93%>Description</size>
+<size=75%>View information on how the Coven faction works</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/coveninfo</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd coveninfo</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/coveninfo</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+neutralinfo[hidden]:
+<size=110%><b>Command Name - /neutralinfo</b></size>
+
+<size=93%>Description</size>
+<size=75%>View information on how the Neutral faction works</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/neutralinfo</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd neutralinfo</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/neutralinfo</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+playerinfo[hidden]:
+<size=110%><b>Command Name - /playerinfo</b></size>
+
+<size=93%>Description</size>
+<size=75%>See a player's ID, friend code, hashed PUID, and platform info</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose info you want to see (leave blank to show all)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/playerinfo</b>
+- <b>/pi</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd playerinfo [id]</b></size>
+<size=75%><b>/cmd pi [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/playerinfo [id]</b></size>
+<size=75%><b>/pi [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+pi[hidden]:
+<size=110%><b>Command Name - /playerinfo</b></size>
+
+<size=93%>Description</size>
+<size=75%>See a player's ID, friend code, hashed PUID, and platform info</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose info you want to see (leave blank to show all)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/playerinfo</b>
+- <b>/pi</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd playerinfo [id]</b></size>
+<size=75%><b>/cmd pi [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/playerinfo [id]</b></size>
+<size=75%><b>/pi [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+timelimit[hidden]:
+<size=110%><b>Command Name - /timelimit</b></size>
+
+<size=93%>Description</size>
+<size=75%>Show the remaining game time (when the time limit is enabled)</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/timelimit</b>
+- <b>/til</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd timelimit</b></size>
+<size=75%><b>/cmd til</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/timelimit</b></size>
+<size=75%><b>/til</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+til[hidden]:
+<size=110%><b>Command Name - /timelimit</b></size>
+
+<size=93%>Description</size>
+<size=75%>Show the remaining game time (when the time limit is enabled)</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/timelimit</b>
+- <b>/til</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Game</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd timelimit</b></size>
+<size=75%><b>/cmd til</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/timelimit</b></size>
+<size=75%><b>/til</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+exo[hidden]:
+<size=110%><b>Command Name - /exo</b></size>
+
+<size=93%>Description</size>
+<size=75%>Activate your ability as the Exorcist</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/exo</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd exo</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/exo</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+reroll[hidden]:
+<size=110%><b>Command Name - /reroll</b></size>
+
+<size=93%>Description</size>
+<size=75%>Reroll your role as the Reroll. Takes effect after the meeting ends.</size>
+
+<size=93%>Arguments</size>
+<size=75%>None.</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/reroll</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd is needed</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd reroll</b></size>
+
+<size=93%>Don't write</size>
+<size=75%><b>/reroll</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+confirmauth[hidden]:
+<size=110%><b>Command Name - /confirmauth</b></size>
+
+<size=93%>Description</size>
+<size=75%>Command required to register a new EHR account</size>
+
+<size=93%>Arguments</size>
+<size=75%>- uuid — The unique token provided by the server</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/confirmauth</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>Always</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd confirmauth [uuid]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/confirmauth [uuid]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+guess[hidden]:
+<size=110%><b>Command Name - /guess</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess a player's role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to guess
+- role — The role or add-on to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/guess</b>
+- <b>/shoot</b>
+- <b>/bet</b>
+- <b>/bt</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd guess [id] [role]</b></size>
+<size=75%><b>/cmd shoot [id] [role]</b></size>
+<size=75%><b>/cmd bet [id] [role]</b></size>
+<size=75%><b>/cmd bt [id] [role]</b></size>
+<size=75%><b>/cmd st [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/guess [id] [role]</b></size>
+<size=75%><b>/shoot [id] [role]</b></size>
+<size=75%><b>/bet [id] [role]</b></size>
+<size=75%><b>/bt [id] [role]</b></size>
+<size=75%><b>/st [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+shoot[hidden]:
+<size=110%><b>Command Name - /guess</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess a player's role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to guess
+- role — The role or add-on to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/guess</b>
+- <b>/shoot</b>
+- <b>/bet</b>
+- <b>/bt</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd guess [id] [role]</b></size>
+<size=75%><b>/cmd shoot [id] [role]</b></size>
+<size=75%><b>/cmd bet [id] [role]</b></size>
+<size=75%><b>/cmd bt [id] [role]</b></size>
+<size=75%><b>/cmd st [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/guess [id] [role]</b></size>
+<size=75%><b>/shoot [id] [role]</b></size>
+<size=75%><b>/bet [id] [role]</b></size>
+<size=75%><b>/bt [id] [role]</b></size>
+<size=75%><b>/st [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+bet[hidden]:
+<size=110%><b>Command Name - /guess</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess a player's role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to guess
+- role — The role or add-on to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/guess</b>
+- <b>/shoot</b>
+- <b>/bet</b>
+- <b>/bt</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd guess [id] [role]</b></size>
+<size=75%><b>/cmd shoot [id] [role]</b></size>
+<size=75%><b>/cmd bet [id] [role]</b></size>
+<size=75%><b>/cmd bt [id] [role]</b></size>
+<size=75%><b>/cmd st [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/guess [id] [role]</b></size>
+<size=75%><b>/shoot [id] [role]</b></size>
+<size=75%><b>/bet [id] [role]</b></size>
+<size=75%><b>/bt [id] [role]</b></size>
+<size=75%><b>/st [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+bt[hidden]:
+<size=110%><b>Command Name - /guess</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess a player's role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to guess
+- role — The role or add-on to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/guess</b>
+- <b>/shoot</b>
+- <b>/bet</b>
+- <b>/bt</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd guess [id] [role]</b></size>
+<size=75%><b>/cmd shoot [id] [role]</b></size>
+<size=75%><b>/cmd bet [id] [role]</b></size>
+<size=75%><b>/cmd bt [id] [role]</b></size>
+<size=75%><b>/cmd st [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/guess [id] [role]</b></size>
+<size=75%><b>/shoot [id] [role]</b></size>
+<size=75%><b>/bet [id] [role]</b></size>
+<size=75%><b>/bt [id] [role]</b></size>
+<size=75%><b>/st [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+st[hidden]:
+<size=110%><b>Command Name - /guess</b></size>
+
+<size=93%>Description</size>
+<size=75%>Guess a player's role.</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to guess
+- role — The role or add-on to guess</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/guess</b>
+- <b>/shoot</b>
+- <b>/bet</b>
+- <b>/bt</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd guess [id] [role]</b></size>
+<size=75%><b>/cmd shoot [id] [role]</b></size>
+<size=75%><b>/cmd bet [id] [role]</b></size>
+<size=75%><b>/cmd bt [id] [role]</b></size>
+<size=75%><b>/cmd st [id] [role]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/guess [id] [role]</b></size>
+<size=75%><b>/shoot [id] [role]</b></size>
+<size=75%><b>/bet [id] [role]</b></size>
+<size=75%><b>/bt [id] [role]</b></size>
+<size=75%><b>/st [id] [role]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+trial[hidden]:
+<size=110%><b>Command Name - /trial</b></size>
+
+<size=93%>Description</size>
+<size=75%>Trial a player as the Prosecutor or Councillor</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to trial or kill</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/trial</b>
+- <b>/tl</b>
+- <b>/sp</b>
+- <b>/jj</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd trial [id]</b></size>
+<size=75%><b>/cmd tl [id]</b></size>
+<size=75%><b>/cmd sp [id]</b></size>
+<size=75%><b>/cmd jj [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/trial [id]</b></size>
+<size=75%><b>/tl [id]</b></size>
+<size=75%><b>/sp [id]</b></size>
+<size=75%><b>/jj [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+tl[hidden]:
+<size=110%><b>Command Name - /trial</b></size>
+
+<size=93%>Description</size>
+<size=75%>Trial a player as the Prosecutor or Councillor</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to trial or kill</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/trial</b>
+- <b>/tl</b>
+- <b>/sp</b>
+- <b>/jj</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd trial [id]</b></size>
+<size=75%><b>/cmd tl [id]</b></size>
+<size=75%><b>/cmd sp [id]</b></size>
+<size=75%><b>/cmd jj [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/trial [id]</b></size>
+<size=75%><b>/tl [id]</b></size>
+<size=75%><b>/sp [id]</b></size>
+<size=75%><b>/jj [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+sp[hidden]:
+<size=110%><b>Command Name - /trial</b></size>
+
+<size=93%>Description</size>
+<size=75%>Trial a player as the Prosecutor or Councillor</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to trial or kill</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/trial</b>
+- <b>/tl</b>
+- <b>/sp</b>
+- <b>/jj</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd trial [id]</b></size>
+<size=75%><b>/cmd tl [id]</b></size>
+<size=75%><b>/cmd sp [id]</b></size>
+<size=75%><b>/cmd jj [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/trial [id]</b></size>
+<size=75%><b>/tl [id]</b></size>
+<size=75%><b>/sp [id]</b></size>
+<size=75%><b>/jj [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+jj[hidden]:
+<size=110%><b>Command Name - /trial</b></size>
+
+<size=93%>Description</size>
+<size=75%>Trial a player as the Prosecutor or Councillor</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to trial or kill</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/trial</b>
+- <b>/tl</b>
+- <b>/sp</b>
+- <b>/jj</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd trial [id]</b></size>
+<size=75%><b>/cmd tl [id]</b></size>
+<size=75%><b>/cmd sp [id]</b></size>
+<size=75%><b>/cmd jj [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/trial [id]</b></size>
+<size=75%><b>/tl [id]</b></size>
+<size=75%><b>/sp [id]</b></size>
+<size=75%><b>/jj [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+swap[hidden]:
+<size=110%><b>Command Name - /swap</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set a (vote-) swap target as the Swapper</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose vote will be swapped with the other player you set</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/swap</b>
+- <b>/sw</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd swap [id]</b></size>
+<size=75%><b>/cmd sw [id]</b></size>
+<size=75%><b>/cmd st [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/swap [id]</b></size>
+<size=75%><b>/sw [id]</b></size>
+<size=75%><b>/st [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+sw[hidden]:
+<size=110%><b>Command Name - /swap</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set a (vote-) swap target as the Swapper</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose vote will be swapped with the other player you set</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/swap</b>
+- <b>/sw</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd swap [id]</b></size>
+<size=75%><b>/cmd sw [id]</b></size>
+<size=75%><b>/cmd st [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/swap [id]</b></size>
+<size=75%><b>/sw [id]</b></size>
+<size=75%><b>/st [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+st[hidden]:
+<size=110%><b>Command Name - /swap</b></size>
+
+<size=93%>Description</size>
+<size=75%>Set a (vote-) swap target as the Swapper</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID whose vote will be swapped with the other player you set</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/swap</b>
+- <b>/sw</b>
+- <b>/st</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd swap [id]</b></size>
+<size=75%><b>/cmd sw [id]</b></size>
+<size=75%><b>/cmd st [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/swap [id]</b></size>
+<size=75%><b>/sw [id]</b></size>
+<size=75%><b>/st [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+compare[hidden]:
+<size=110%><b>Command Name - /compare</b></size>
+
+<size=93%>Description</size>
+<size=75%>Compare two players' teams as the Inspector</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id1 — The first player's ID to compare
+- id2 — The second player's ID to compare</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/compare</b>
+- <b>/cmp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd compare [id1] [id2]</b></size>
+<size=75%><b>/cmd cmp [id1] [id2]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/compare [id1] [id2]</b></size>
+<size=75%><b>/cmp [id1] [id2]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+cmp[hidden]:
+<size=110%><b>Command Name - /compare</b></size>
+
+<size=93%>Description</size>
+<size=75%>Compare two players' teams as the Inspector</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id1 — The first player's ID to compare
+- id2 — The second player's ID to compare</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/compare</b>
+- <b>/cmp</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd compare [id1] [id2]</b></size>
+<size=75%><b>/cmd cmp [id1] [id2]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/compare [id1] [id2]</b></size>
+<size=75%><b>/cmp [id1] [id2]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+medium[hidden]:
+<size=110%><b>Command Name - /medium</b></size>
+
+<size=93%>Description</size>
+<size=75%>Answer the Medium's question</size>
+
+<size=93%>Arguments</size>
+<size=75%>- answer — yes/no</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/medium</b>
+- <b>/ms</b>
+- <b>/mediumship</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd medium [answer]</b></size>
+<size=75%><b>/cmd ms [answer]</b></size>
+<size=75%><b>/cmd mediumship [answer]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/medium [answer]</b></size>
+<size=75%><b>/ms [answer]</b></size>
+<size=75%><b>/mediumship [answer]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+ms[hidden]:
+<size=110%><b>Command Name - /medium</b></size>
+
+<size=93%>Description</size>
+<size=75%>Answer the Medium's question</size>
+
+<size=93%>Arguments</size>
+<size=75%>- answer — yes/no</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/medium</b>
+- <b>/ms</b>
+- <b>/mediumship</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd medium [answer]</b></size>
+<size=75%><b>/cmd ms [answer]</b></size>
+<size=75%><b>/cmd mediumship [answer]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/medium [answer]</b></size>
+<size=75%><b>/ms [answer]</b></size>
+<size=75%><b>/mediumship [answer]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+mediumship[hidden]:
+<size=110%><b>Command Name - /medium</b></size>
+
+<size=93%>Description</size>
+<size=75%>Answer the Medium's question</size>
+
+<size=93%>Arguments</size>
+<size=75%>- answer — yes/no</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/medium</b>
+- <b>/ms</b>
+- <b>/mediumship</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>In Meetings</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd medium [answer]</b></size>
+<size=75%><b>/cmd ms [answer]</b></size>
+<size=75%><b>/cmd mediumship [answer]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/medium [answer]</b></size>
+<size=75%><b>/ms [answer]</b></size>
+<size=75%><b>/mediumship [answer]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+revenge[hidden]:
+<size=110%><b>Command Name - /revenge</b></size>
+
+<size=93%>Description</size>
+<size=75%>Take revenge on (kill) a player as the Nemesis</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to take revenge on (kill)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/revenge</b>
+- <b>/rv</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd revenge [id]</b></size>
+<size=75%><b>/cmd rv [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/revenge [id]</b></size>
+<size=75%><b>/rv [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
+
+rv[hidden]:
+<size=110%><b>Command Name - /revenge</b></size>
+
+<size=93%>Description</size>
+<size=75%>Take revenge on (kill) a player as the Nemesis</size>
+
+<size=93%>Arguments</size>
+<size=75%>- id — The player's ID to take revenge on (kill)</size>
+
+<size=93%>Aliases</size>
+<size=75%>- <b>/revenge</b>
+- <b>/rv</b></size>
+
+<size=93%>Usage Level</size>
+<size=75%>Everyone</size>
+
+<size=93%>Usage Time</size>
+<size=75%>After Death</size>
+
+<size=93%>'cmd' prefix required</size>
+<size=75%><color=#ff3f6a>cmd use optional</color></size>
+
+<size=93%>How to Write Using cmd</size>
+<size=75%><b>/cmd revenge [id]</b></size>
+<size=75%><b>/cmd rv [id]</b></size>
+
+<size=93%>Normal Versions</size>
+<size=75%><b>/revenge [id]</b></size>
+<size=75%><b>/rv [id]</b></size>
+
+<size=75%>We Highly Recommend using cmd for most of the commands</size>
