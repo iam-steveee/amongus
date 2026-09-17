@@ -1,30 +1,24 @@
-Welcome[hidden]:<size=125%><align=center><b><color=#d50d6c>♡</color> <color=#f89b29>Welcome, Ladies and Gental Men!</color> <color=#d50d6c>♡</color></b></align></size>
+Welcome[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡Welc<color=#901353>ome, L<color=#BC2B77>adies <color=#E5509B>and Ge<color=#FF86BE>ntal M<color=#FFD6E8>en!♡</color></color></color></color></color></color></b></align></size>
 
-<size=75%>Lobby Host</color></size>
-<size=75%>{{HostName}}</color></size>
+<size=75%>Lobby Host</color></size>: <size=75%>{{HostName}}</color></size>
+<size=75%>Discord Username</color></size>: <size=75%>@iam._.steve</color></size>
 
-<size=75%>Discord</color></size>
-<size=75%>@iam._.steve</color></size>
-
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Suggested For Beginners</color> <color=#d50d6c>✽</color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Sug<color=#901353>geste<color=#BC2B77>d For<color=#E5509B> Beg<color=#FF86BE>inne<color=#FFD6E8>rs ✽</color></color></color></color></color></color></b></size>
 
 <size=75%>Users are suggested to read the available tags.</color></size>
 <size=75%>(If you are a beginner, this might help!)</color></size>
 
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Recommended Commands</color> <color=#d50d6c>✽</color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Re<color=#901353>comm<color=#BC2B77>ende<color=#E5509B>d Co<color=#FF86BE>mman<color=#FFD6E8>ds ✽</color></color></color></color></color></color></b></size>
 
-<size=75%><color=#f89b29>/t Commands</color></size> - <size=75%>It will give you all the important commands usable in-game.</color></size>
-<size=75%><color=#f89b29>/t Help</color></size> - <size=75%>It will give you proper guidance on how to play Modded. Please make sure to check it out.</color></size>
-<size=75%><color=#f89b29>/t</color></size> - <size=75%>This will list all the available tags.</color></size>
-<size=75%><color=#f89b29>/t [tag_name]</color></size> - <size=75%>Get information about any specific tag.</color></size>
-
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>That's It!</color> <color=#d50d6c>✽</color></b></size>
-<size=75%>That's how simple it is.</color></size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> C</color><color=#7F30B9>om</color><color=#9B56D9>ma</color><color=#B989EC>nd</color><color=#E1C7FF>s</color></size> - <size=75%>It will give you all the important commands usable in-game.</color></size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> </color><color=#7F30B9>H</color><color=#9B56D9>e</color><color=#B989EC>l</color><color=#E1C7FF>p</color></size> - <size=75%>It will give you proper guidance on how to play Modded. Please make sure to check it out.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>t</color></size> - <size=75%>This will list all the available tags.</color></size>
+<size=75%><color=#3B0A57>/t </color><color=#60178C>[t</color><color=#7F30B9>ag</color><color=#9B56D9>_n</color><color=#B989EC>am</color><color=#E1C7FF>e]</color></size> - <size=75%>Get information about any specific tag.</color></size>
 
 <size=75%>Didn't understand?</color></size> <size=75%>DM </color>@iam._.steve OR @unoxlucky</color> on Discord.</color></size>
 
-Admincommands[rank=Admin]:<size=100%><color=#ff3f6a>Welcome, Prestigious Member!</color></size>
-<size=75%><color=#ff3f6a>Here are the following special commands you can use:</color></size>
+Admincommands[rank=Admin]:<size=110%><color=#5C2D00>Welco<color=#8D4700>me, P<color=#B85F00>resti<color=#E07C0D>gious <color=#FFA23A>Mem<color=#FFD19E>ber!</color></color></color></color></color></color></size>
+<size=75%><color=#3B0A57>Here are </color><color=#60178C>the follo</color><color=#7F30B9>wing spec</color><color=#9B56D9>ial comma</color><color=#B989EC>nds you </color><color=#E1C7FF>can use:</color></size>
 
 <size=75%><b>/cmd color</b></size>
 <size=75%><b>/cmd rename</b></size>
@@ -47,10 +41,10 @@ Admincommands[rank=Admin]:<size=100%><color=#ff3f6a>Welcome, Prestigious Member!
 <size=75%><b>/cmd os</b></size>
 <size=75%><b>/cmd unmute</b></size>
 
-<size=75%><color=#ff3f6a>These commands are available to Admin members.</color></size>
+<size=75%><color=#5C2D00>These co</color><color=#8D4700>mmands a</color><color=#B85F00>re avail</color><color=#E07C0D>able to </color><color=#FFA23A>Admin m</color><color=#FFD19E>embers.</color></size>
 
-Moderatorcommands[rank=Moderator]:<size=100%><color=#ff3f6a>Welcome, Prestigious Member!</color></size>
-<size=75%><color=#ff3f6a>Here are the following special commands you can use:</color></size>
+Moderatorcommands[rank=Moderator]:<size=110%><color=#5C2D00>Welco<color=#8D4700>me, P<color=#B85F00>resti<color=#E07C0D>gious <color=#FFA23A>Mem<color=#FFD19E>ber!</color></color></color></color></color></color></size>
+<size=75%><color=#3B0A57>Here are </color><color=#60178C>the follo</color><color=#7F30B9>wing spec</color><color=#9B56D9>ial comma</color><color=#B989EC>nds you </color><color=#E1C7FF>can use:</color></size>
 
 <size=75%><b>/cmd color</b></size>
 <size=75%><b>/cmd rename</b></size>
@@ -68,166 +62,124 @@ Moderatorcommands[rank=Moderator]:<size=100%><color=#ff3f6a>Welcome, Prestigious
 <size=75%><b>/cmd fix</b></size>
 <size=75%><b>/cmd readycheck</b></size>
 
-<size=75%><color=#ff3f6a>These commands are available to Moderator members.</color></size>
+<size=75%><color=#5C2D00>These com</color><color=#8D4700>mands are</color><color=#B85F00> availab</color><color=#E07C0D>le to Mo</color><color=#FFA23A>derator </color><color=#FFD19E>members.</color></size>
 
-Vipcommands[rank=VIP]:<size=100%><color=#ff3f6a>Welcome, Prestigious Member!</color></size>
-<size=75%><color=#ff3f6a>Here are the following special commands you can use:</color></size>
+Vipcommands[rank=VIP]:<size=110%><color=#5C2D00>Welco<color=#8D4700>me, P<color=#B85F00>resti<color=#E07C0D>gious <color=#FFA23A>Mem<color=#FFD19E>ber!</color></color></color></color></color></color></size>
+<size=75%><color=#3B0A57>Here are </color><color=#60178C>the follo</color><color=#7F30B9>wing spec</color><color=#9B56D9>ial comma</color><color=#B989EC>nds you </color><color=#E1C7FF>can use:</color></size>
 
 <size=75%><b>/cmd color</b></size>
 <size=75%><b>/cmd rename</b></size>
 <size=75%><b>/cmd tpin</b></size>
 <size=75%><b>/cmd tpout</b></size>
 
-<size=75%><color=#ff3f6a>These commands are available to VIP members.</color></size>
+<size=75%><color=#5C2D00>These co</color><color=#8D4700>mmands a</color><color=#B85F00>re avai</color><color=#E07C0D>lable t</color><color=#FFA23A>o VIP m</color><color=#FFD19E>embers.</color></size>
 
-Notification[hidden]:<size=125%><align=center><b><color=#d50d6c>♡</color> <color=#f89b29>Lobby Status</color> <color=#d50d6c>♡</color></b></align></size>
+Notification[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡ L<color=#901353>obb<color=#BC2B77>y S<color=#E5509B>tat<color=#FF86BE>us<color=#FFD6E8> ♡</color></color></color></color></color></color></b></align></size>
 
-<size=75%>Host</color></size>
-<size=75%>{{HostName}}</color></size>
+<size=75%>Host</color></size>: <size=75%>{{HostName}}</color></size>
+<size=75%>Room Code</color></size>: <size=75%>{{RoomCode}}</color></size>
+<size=75%>Map</color></size>: <size=75%>{{Map}}</color></size>
 
-<size=75%>Room Code</color></size>
-<size=75%>{{RoomCode}}</color></size>
+<size=110%><b><color=#6B0B3B>✽ He<color=#901353>lpfu<color=#BC2B77>l C<color=#E5509B>omm<color=#FF86BE>and<color=#FFD6E8>s ✽</color></color></color></color></color></color></b></size>
 
-<size=75%>Map</color></size>
-<size=75%>{{Map}}</color></size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> </color><color=#7F30B9>H</color><color=#9B56D9>e</color><color=#B989EC>l</color><color=#E1C7FF>p</color></size> - <size=75%>Learn how to play Modded Among Us.</color></size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> C</color><color=#7F30B9>om</color><color=#9B56D9>ma</color><color=#B989EC>nd</color><color=#E1C7FF>s</color></size> -  <size=75%>View every important in-game command.</color></size>
+<size=75%><color=#3B0A57>/t </color><color=#60178C>[co</color><color=#7F30B9>mma</color><color=#9B56D9>nd_</color><color=#B989EC>nam</color><color=#E1C7FF>e]</color></size> -  <size=75%>View command detailed information</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>t</color><color=#7F30B9> </color><color=#9B56D9>F</color><color=#B989EC>A</color><color=#E1C7FF>Q</color></size> - <size=75%>Read answers to common questions.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>c</color><color=#7F30B9>m</color><color=#9B56D9>d</color><color=#B989EC> </color><color=#E1C7FF>r</color></size> - <size=75%>Check all active roles.</color></size>
+<size=75%><color=#3B0A57>/cm</color><color=#60178C>d r</color><color=#7F30B9> [r</color><color=#9B56D9>ole</color><color=#B989EC>_na</color><color=#E1C7FF>me]</color></size> - <size=75%>View detailed information about a role.</color></size>
+<size=75%><color=#3B0A57>/cmd</color><color=#60178C> bt</color><color=#7F30B9> [i</color><color=#9B56D9>d] </color><color=#B989EC>[ro</color><color=#E1C7FF>le]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>r</color><color=#7F30B9>e</color><color=#9B56D9>a</color><color=#B989EC>d</color><color=#E1C7FF>y</color></size> - <size=75%>Tell the host you're ready to start.</color></size>
 
-<size=75%><color=#ff5f53>Need more than 8 players to start.</color></size>
+<size=75%>Ask Steve Or Lucky</color> or any experienced player if you're confused.</color></size>
 
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Helpful Commands</color> <color=#d50d6c>✽</color></b></size>
-
-<size=75%><color=#f89b29>/t Help</color></size> - <size=75%>Learn how to play Modded Among Us.</color></size>
-<size=75%><color=#f89b29>/t Commands</color></size> -  <size=75%>View every important in-game command.</color></size>
-<size=75%><color=#f89b29>/t FAQ</color></size> - <size=75%>Read answers to common questions.</color></size>
-<size=75%><color=#f89b29>/cmd r</color></size> - <size=75%>Check all active roles.</color></size>
-<size=75%><color=#f89b29>/cmd r [role_name]</color></size> - <size=75%>View detailed information about a role.</color></size>
-<size=75%><color=#f89b29>/cmd bt [id] [role]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
-<size=75%><color=#f89b29>/ready</color></size> - <size=75%>Tell the host you're ready to start.</color></size>
-
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Need Help?</color> <color=#d50d6c>✽</color></b></size> <size=75%>Ask Steve Or Lucky</color> or any experienced player if you're confused.</color></size>
-
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Important Notice</color> <color=#d50d6c>✽</color></b></size>
-
-<size=75%><color=#ff3f6a>Please don't ask the host to start repeatedly.</color></size>
-<size=75%><color=#ff3f6a>Please don't abuse other players.</color></size>
-<size=75%><color=#ff3f6a>After 5 warnings, our system will kick you.</color></size>
-
-Notification[delay=10, hidden]:<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Important Notice</color> <color=#d50d6c>✽</color></b></size>
-
-<size=75%><color=#ff3f6a>Use</color> /cmd <color=#ff3f6a>before every command</color> or your commands would be visible to everyone.</size>
-<size=75%>Imagine you are guessing someone. If you guessed right, they will see that you wrote that command. So, use /cmd so it will hide your commands.</size>
-<size=75%><color=#ff3f6a>If you are using</color> /cmd<color=#ff3f6a>, then don't use an extra slash (/) before the command.</color></size>
-
-<size=75%><color=#ff3f6a>Don't use:</color></size>
-<size=75%><b>/cmd /r</b></size>
-<size=75%><b>/cmd /m</b></size>
-<size=75%><b>/cmd /bt [id] [role]</b></size>
-
-<size=75%><color=#ff3f6a>Correct way to use them:</color></size>
-<size=75%><b>/cmd r</b></size>
-<size=75%><b>/cmd m</b></size>
-<size=75%><b>/cmd bt [id] [role]</b></size>
-
-<size=75%><color=#ff3f6a>Just don't use the extra slash (/).</color></size>
-<size=75%><color=#ff3f6a>While guessing or doing anything where you don't want your commands to be visible to others, use</color> /cmd<color=#ff3f6a>.</color></size>
-
-<size=75%><color=#ff3f6a>Don't use:</color></size>
-<size=75%><b>/bt [id] [role]</b></size>
-<size=75%><b>/m</b></size>
-<size=75%><b>/r</b></size>
-
-<size=75%><color=#ff3f6a>Instead use:</color></size>
-<size=75%><b>/cmd bt [id] [role]</b></size>
-<size=75%><b>/cmd m</b></size>
-<size=75%><b>/cmd r</b></size>
-
-<size=75%><color=#ff3f6a>Note: The commands mentioned above don't mean they are the only commands that work with</color> /cmd<color=#ff3f6a>. All commands work fine with</color> /cmd<color=#ff3f6a>.</color></size>
-
-Commands:<size=125%><align=center><b><color=#d50d6c>♡</color> <color=#f89b29>Command Usage</color> <color=#d50d6c>♡</color></b></align></size>
+Commands:<size=110%><align=center><b><color=#6B0B3B>♡ C<color=#901353>omm<color=#BC2B77>and<color=#E5509B> Us<color=#FF86BE>age<color=#FFD6E8> ♡</color></color></color></color></color></color></b></align></size>
 
 <size=85%><align=center>Use these commands during the game to access role information or activate role abilities.</color></align></size>
+<size=85%><align=center>Use <b>/t [command_name]</b> for command details.</color></align></size>
 
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>General Commands</color> <color=#d50d6c>✽</color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Ge<color=#901353>nera<color=#BC2B77>l C<color=#E5509B>omm<color=#FF86BE>and<color=#FFD6E8>s ✽</color></color></color></color></color></color></b></size>
 
-<size=75%><color=#f89b29>/cmd m</color></size> - <size=75%>Get your role details.</color></size>
-<size=75%><color=#f89b29>/cmd r</color></size> - <size=75%>View the active role list.</color></size>
-<size=75%><color=#f89b29>/cmd r [role]</color></size> - <size=75%>Get detailed information about a role.</color></size>
-<size=75%><color=#f89b29>/cmd death</color></size> - <size=75%>Get your death information. Can Do /cmd death [id] to check other death reason, work only after death.</color></size>
-<size=75%><color=#f89b29>/cmd kcount</color></size> - <size=75%>View the number of alive killers (if enabled).</color></size>
-<size=75%><color=#f89b29>/cmd vote [Player_Id]</color></size> - <size=75%>Vote for a player.</color></size>
-<size=75%><color=#f89b29>/cmd vote 253</color></size> - <size=75%>Skip your vote.</color></size>
-<size=75%><color=#f89b29>/cmd bt [id] [role]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>c</color><color=#7F30B9>m</color><color=#9B56D9>d</color><color=#B989EC> </color><color=#E1C7FF>m</color></size> - <size=75%>Get your role details.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>c</color><color=#7F30B9>m</color><color=#9B56D9>d</color><color=#B989EC> </color><color=#E1C7FF>r</color></size> - <size=75%>View the active role list.</color></size>
+<size=75%><color=#3B0A57>/cm</color><color=#60178C>d </color><color=#7F30B9>r </color><color=#9B56D9>[r</color><color=#B989EC>ol</color><color=#E1C7FF>e]</color></size> - <size=75%>Get detailed information about a role.</color></size>
+<size=75%><color=#3B0A57>/c</color><color=#60178C>md</color><color=#7F30B9> d</color><color=#9B56D9>ea</color><color=#B989EC>t</color><color=#E1C7FF>h</color></size> - <size=75%>Get your death information. Can Do /cmd death [id] to check other death reason, work only after death.</color></size>
+<size=75%><color=#3B0A57>/c</color><color=#60178C>md</color><color=#7F30B9> k</color><color=#9B56D9>co</color><color=#B989EC>un</color><color=#E1C7FF>t</color></size> - <size=75%>View the number of alive killers (if enabled).</color></size>
+<size=75%><color=#3B0A57>/cmd</color><color=#60178C> vot</color><color=#7F30B9>e [P</color><color=#9B56D9>lay</color><color=#B989EC>er_</color><color=#E1C7FF>Id]</color></size> - <size=75%>Vote for a player.</color></size>
+<size=75%><color=#3B0A57>/cm</color><color=#60178C>d </color><color=#7F30B9>vo</color><color=#9B56D9>te</color><color=#B989EC> 2</color><color=#E1C7FF>53</color></size> - <size=75%>Skip your vote.</color></size>
+<size=75%><color=#3B0A57>/cmd</color><color=#60178C> bt</color><color=#7F30B9> [i</color><color=#9B56D9>d] </color><color=#B989EC>[ro</color><color=#E1C7FF>le]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
 
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Died Too Early?</color> <color=#d50d6c>✽</color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Di<color=#901353>ed <color=#BC2B77>Too<color=#E5509B> Ea<color=#FF86BE>rly<color=#FFD6E8>? ✽</color></color></color></color></color></color></b></size>
 
-<size=75%><color=#f89b29>/8ball</color></size> - <size=75%>Try your luck.</color></size>
-<size=75%><color=#f89b29>/gno</color></size> - <size=75%>Use this while waiting for the game to end.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>8</color><color=#7F30B9>b</color><color=#9B56D9>a</color><color=#B989EC>l</color><color=#E1C7FF>l</color></size> - <size=75%>Try your luck.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>g</color><color=#7F30B9>n</color><color=#9B56D9>o</color></size> - <size=75%>Use this while waiting for the game to end.</color></size>
 
-<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Important Notice</color> <color=#d50d6c>✽</color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Im<color=#901353>port<color=#BC2B77>ant<color=#E5509B> No<color=#FF86BE>tic<color=#FFD6E8>e ✽</color></color></color></color></color></color></b></size>
 
-<size=75%><color=#ff3f6a>Use</color> /cmd <color=#ff3f6a>before every command</color> or your commands would be visible to everyone.</size>
+<size=75%><color=#5C2D00>U</color><color=#8D4700>s</color><color=#B85F00>e</color> /cmd <color=#5C2D00>befo</color><color=#8D4700>re e</color><color=#B85F00>ver</color><color=#E07C0D>y c</color><color=#FFA23A>omm</color><color=#FFD19E>and</color> or your commands would be visible to everyone.</size>
 <size=75%>Imagine you are guessing someone. If you guessed right, they will see that you wrote that command. So, use /cmd so it will hide your commands.</size>
-<size=75%><color=#ff3f6a>If you are using</color> /cmd<color=#ff3f6a>, then don't use an extra slash (/) before the command.</color></size>
+<size=75%><color=#5C2D00>If </color><color=#8D4700>you</color><color=#B85F00> ar</color><color=#E07C0D>e u</color><color=#FFA23A>si</color><color=#FFD19E>ng</color> /cmd<color=#5C2D00>, then don</color><color=#8D4700>'t use an</color><color=#B85F00> extra sl</color><color=#E07C0D>ash (/) b</color><color=#FFA23A>efore the</color><color=#FFD19E> command.</color></size>
 
-<size=75%><color=#ff3f6a>Don't use:</color></size>
+<size=75%><color=#5C2D00>Do</color><color=#8D4700>n'</color><color=#B85F00>t </color><color=#E07C0D>us</color><color=#FFA23A>e</color><color=#FFD19E>:</color></size>
 <size=75%><b>/cmd /r</b></size>
 <size=75%><b>/cmd /m</b></size>
 <size=75%><b>/cmd /bt [id] [role]</b></size>
 
-<size=75%><color=#ff3f6a>Correct way to use them:</color></size>
+<size=75%><color=#5C2D00>Corr</color><color=#8D4700>ect </color><color=#B85F00>way </color><color=#E07C0D>to u</color><color=#FFA23A>se t</color><color=#FFD19E>hem:</color></size>
 <size=75%><b>/cmd r</b></size>
 <size=75%><b>/cmd m</b></size>
 <size=75%><b>/cmd bt [id] [role]</b></size>
 
-<size=75%><color=#ff3f6a>Just don't use the extra slash (/).</color></size>
-<size=75%><color=#ff3f6a>While guessing or doing anything where you don't want your commands to be visible to others, use</color> /cmd<color=#ff3f6a>.</color></size>
+<size=75%><color=#5C2D00>Just d</color><color=#8D4700>on't u</color><color=#B85F00>se the</color><color=#E07C0D> extra</color><color=#FFA23A> slash</color><color=#FFD19E> (/).</color></size>
+<size=75%><color=#5C2D00>While guessing o</color><color=#8D4700>r doing anything</color><color=#B85F00> where you don't</color><color=#E07C0D> want your comma</color><color=#FFA23A>nds to be visibl</color><color=#FFD19E>e to others, use</color> /cmd<color=#5C2D00>.</color></size>
 
-<size=75%><color=#ff3f6a>Don't use:</color></size>
+<size=75%><color=#5C2D00>Do</color><color=#8D4700>n'</color><color=#B85F00>t </color><color=#E07C0D>us</color><color=#FFA23A>e</color><color=#FFD19E>:</color></size>
 <size=75%><b>/bt [id] [role]</b></size>
 <size=75%><b>/m</b></size>
 <size=75%><b>/r</b></size>
 
-<size=75%><color=#ff3f6a>Instead use:</color></size>
+<size=75%><color=#5C2D00>In</color><color=#8D4700>st</color><color=#B85F00>ea</color><color=#E07C0D>d </color><color=#FFA23A>us</color><color=#FFD19E>e:</color></size>
 <size=75%><b>/cmd bt [id] [role]</b></size>
 <size=75%><b>/cmd m</b></size>
 <size=75%><b>/cmd r</b></size>
 
-<size=75%><color=#ff3f6a>Note: The commands mentioned above don't mean they are the only commands that work with</color> /cmd<color=#ff3f6a>. All commands work fine with</color> /cmd<color=#ff3f6a>.</color></size>
+<size=75%><color=#5C2D00>Note: The comma</color><color=#8D4700>nds mentioned a</color><color=#B85F00>bove don't mean</color><color=#E07C0D> they are the </color><color=#FFA23A>only commands </color><color=#FFD19E>that work with</color> /cmd<color=#5C2D00>. All</color><color=#8D4700> comm</color><color=#B85F00>ands </color><color=#E07C0D>work </color><color=#FFA23A>fine </color><color=#FFD19E>with</color> /cmd<color=#5C2D00>.</color></size>
 
-OnMeeting[delay=5, hidden]:<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Commands</color> <color=#d50d6c>✽</color></b></size>
-<size=75%><b>/cmd m - <color=#ff3f6a>Check the role information of the role you received in the game.</color></b></size>
-<size=75%><b>/cmd r - <color=#ff3f6a>Check all active roles.</color></b></size>
-<size=75%><b>/cmd r [role_name] - <color=#ff3f6a>Check information about a specific role.</color></b></size>
-<size=75%><b>/cmd bt [id] [role] - <color=#ff3f6a>Guess someone's role and kill them during the meeting.</color></b></size>
-<size=75%><b>/cmd death - <color=#ff3f6a>Check how you died. You can also check another player's death reason by using</color> /cmd death [id]<color=#ff3f6a>. This command only works after you die.</color></b></size>
+OnMeeting[delay=5, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FFD6E8> ✽</color></color></color></color></color></color></b></size>
+<size=75%><b>/cmd m - <color=#5C2D00>Check the r</color><color=#8D4700>ole informa</color><color=#B85F00>tion of the</color><color=#E07C0D> role you r</color><color=#FFA23A>eceived in</color><color=#FFD19E> the game.</color></b></size>
+<size=75%><b>/cmd r - <color=#5C2D00>Chec</color><color=#8D4700>k al</color><color=#B85F00>l ac</color><color=#E07C0D>tive</color><color=#FFA23A> rol</color><color=#FFD19E>es.</color></b></size>
+<size=75%><b>/cmd r [role_name] - <color=#5C2D00>Check i</color><color=#8D4700>nformat</color><color=#B85F00>ion abo</color><color=#E07C0D>ut a sp</color><color=#FFA23A>ecific</color><color=#FFD19E> role.</color></b></size>
+<size=75%><b>/cmd bt [id] [role] - <color=#5C2D00>Guess som</color><color=#8D4700>eone's ro</color><color=#B85F00>le and ki</color><color=#E07C0D>ll them d</color><color=#FFA23A>uring the</color><color=#FFD19E> meeting.</color></b></size>
+<size=75%><b>/cmd death - <color=#5C2D00>Check how you</color><color=#8D4700> died. You ca</color><color=#B85F00>n also check </color><color=#E07C0D>another playe</color><color=#FFA23A>r's death rea</color><color=#FFD19E>son by using</color> /cmd death [id]<color=#5C2D00>. This </color><color=#8D4700>command</color><color=#B85F00> only w</color><color=#E07C0D>orks af</color><color=#FFA23A>ter yo</color><color=#FFD19E>u die.</color></b></size>
 
-OnMeeting[delay=50, hidden]: <size=125%><align=center><b><color=#d50d6c>♡</color> <color=#f89b29>Other Information</color> <color=#d50d6c>♡</color></b></align></size>
+OnMeeting[delay=50, hidden]: <size=110%><align=center><b><color=#6B0B3B>♡ Ot<color=#901353>her <color=#BC2B77>Info<color=#E5509B>rma<color=#FF86BE>tio<color=#FFD6E8>n ♡</color></color></color></color></color></color></b></align></size>
 
-<size=75%><color=#f89b29>/t</color></size> - <size=75%>View every available tag.</color></size>
-<size=75%><color=#f89b29>/t [tag]</color></size> - <size=75%>Read information about a specific tag.</color></size>
-<size=75%><color=#f89b29>/help</color></size> - <size=75%>View every available command.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>t</color></size> - <size=75%>View every available tag.</color></size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> [</color><color=#7F30B9>t</color><color=#9B56D9>a</color><color=#B989EC>g</color><color=#E1C7FF>]</color></size> - <size=75%>Read information about a specific tag.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>h</color><color=#7F30B9>e</color><color=#9B56D9>l</color><color=#B989EC>p</color></size> - <size=75%>View every available command.</color></size>
 
-OnMeeting[delay=60, hidden]:<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Commands</color> <color=#d50d6c>✽</color></b></size>
-<size=75%><b>/cmd m - <color=#ff3f6a>Check the role information of the role you received in the game.</color></b></size>
-<size=75%><b>/cmd r - <color=#ff3f6a>Check all active roles.</color></b></size>
-<size=75%><b>/cmd r [role_name] - <color=#ff3f6a>Check information about a specific role.</color></b></size>
-<size=75%><b>/cmd bt [id] [role] - <color=#ff3f6a>Guess someone's role and kill them during the meeting.</color></b></size>
-<size=75%><b>/cmd death - <color=#ff3f6a>Check how you died. You can also check another player's death reason by using</color> /cmd death [id]<color=#ff3f6a>. This command only works after you die.</color></b></size>
+OnMeeting[delay=60, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FFD6E8> ✽</color></color></color></color></color></color></b></size>
+<size=75%><b>/cmd m - <color=#5C2D00>Check the r</color><color=#8D4700>ole informa</color><color=#B85F00>tion of the</color><color=#E07C0D> role you r</color><color=#FFA23A>eceived in</color><color=#FFD19E> the game.</color></b></size>
+<size=75%><b>/cmd r - <color=#5C2D00>Chec</color><color=#8D4700>k al</color><color=#B85F00>l ac</color><color=#E07C0D>tive</color><color=#FFA23A> rol</color><color=#FFD19E>es.</color></b></size>
+<size=75%><b>/cmd r [role_name] - <color=#5C2D00>Check i</color><color=#8D4700>nformat</color><color=#B85F00>ion abo</color><color=#E07C0D>ut a sp</color><color=#FFA23A>ecific</color><color=#FFD19E> role.</color></b></size>
+<size=75%><b>/cmd bt [id] [role] - <color=#5C2D00>Guess som</color><color=#8D4700>eone's ro</color><color=#B85F00>le and ki</color><color=#E07C0D>ll them d</color><color=#FFA23A>uring the</color><color=#FFD19E> meeting.</color></b></size>
+<size=75%><b>/cmd death - <color=#5C2D00>Check how you</color><color=#8D4700> died. You ca</color><color=#B85F00>n also check </color><color=#E07C0D>another playe</color><color=#FFA23A>r's death rea</color><color=#FFD19E>son by using</color> /cmd death [id]<color=#5C2D00>. This </color><color=#8D4700>command</color><color=#B85F00> only w</color><color=#E07C0D>orks af</color><color=#FFA23A>ter yo</color><color=#FFD19E>u die.</color></b></size>
 
-OnMeeting[delay=150, hidden]:<size=125%><b><color=#d50d6c>✽</color> <color=#f89b29>Commands</color> <color=#d50d6c>✽</color></b></size>
-<size=75%><b>/cmd m - <color=#ff3f6a>Check the role information of the role you received in the game.</color></b></size>
-<size=75%><b>/cmd r - <color=#ff3f6a>Check all active roles.</color></b></size>
-<size=75%><b>/cmd r [role_name] - <color=#ff3f6a>Check information about a specific role.</color></b></size>
-<size=75%><b>/cmd bt [id] [role] - <color=#ff3f6a>Guess someone's role and kill them during the meeting.</color></b></size>
-<size=75%><b>/cmd death - <color=#ff3f6a>Check how you died. You can also check another player's death reason by using</color> /cmd death [id]<color=#ff3f6a>. This command only works after you die.</color></b></size>
+OnMeeting[delay=150, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FFD6E8> ✽</color></color></color></color></color></color></b></size>
+<size=75%><b>/cmd m - <color=#5C2D00>Check the r</color><color=#8D4700>ole informa</color><color=#B85F00>tion of the</color><color=#E07C0D> role you r</color><color=#FFA23A>eceived in</color><color=#FFD19E> the game.</color></b></size>
+<size=75%><b>/cmd r - <color=#5C2D00>Chec</color><color=#8D4700>k al</color><color=#B85F00>l ac</color><color=#E07C0D>tive</color><color=#FFA23A> rol</color><color=#FFD19E>es.</color></b></size>
+<size=75%><b>/cmd r [role_name] - <color=#5C2D00>Check i</color><color=#8D4700>nformat</color><color=#B85F00>ion abo</color><color=#E07C0D>ut a sp</color><color=#FFA23A>ecific</color><color=#FFD19E> role.</color></b></size>
+<size=75%><b>/cmd bt [id] [role] - <color=#5C2D00>Guess som</color><color=#8D4700>eone's ro</color><color=#B85F00>le and ki</color><color=#E07C0D>ll them d</color><color=#FFA23A>uring the</color><color=#FFD19E> meeting.</color></b></size>
+<size=75%><b>/cmd death - <color=#5C2D00>Check how you</color><color=#8D4700> died. You ca</color><color=#B85F00>n also check </color><color=#E07C0D>another playe</color><color=#FFA23A>r's death rea</color><color=#FFD19E>son by using</color> /cmd death [id]<color=#5C2D00>. This </color><color=#8D4700>command</color><color=#B85F00> only w</color><color=#E07C0D>orks af</color><color=#FFA23A>ter yo</color><color=#FFD19E>u die.</color></b></size>
 
-Help:<size=125%><align=center><b><color=#d50d6c>♡ ENDLESS HOST ROLES ♡</color>
-<size=75%><color=#f89b29>✽ QUICK GUIDE ✽</color></b></align></size></size>
+HowToPlay:<size=110%><align=center><b><color=#6B0B3B>♡ EN<color=#901353>DLES<color=#BC2B77>S HO<color=#E5509B>ST R<color=#FF86BE>OLE<color=#FFD6E8>S ♡</color></color></color></color></color></color>
+<size=75%><color=#3B0A57>✽ Q</color><color=#60178C>UIC</color><color=#7F30B9>K G</color><color=#9B56D9>UI</color><color=#B989EC>DE</color><color=#E1C7FF> ✽</color></b></align></size></size>
 
 <size=50%><align=center>(Guide by @iam._.steve on Discord)</color></align></size>
 
 <size=80%>EHR is a pretty complicated mod, but don't worry! I'm here to teach you all the basics of the game so you can become the best player there is! First off, let's start with the most integral part of the mod...</color></size>
 
-<size=125%><align=center><b><color=#d50d6c>✽ ROLES ✽</color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ <color=#901353>RO<color=#BC2B77>LE<color=#E5509B>S<color=#FF86BE> <color=#FFD6E8>✽</color></color></color></color></color></color></b></align></size>
 
 <size=80%>Each player will be assigned a role at the start of the game. There are 4 role types: <color=#ff1919>Impostor</color>, <color=#8cffff>Crewmate</color>, <color=#222222>Neutral</color>, and Add-Ons</color>.</color></size>
 
@@ -242,92 +194,92 @@ Help:<size=125%><align=center><b><color=#d50d6c>♡ ENDLESS HOST ROLES ♡</colo
 
 <size=75%>It is important to remember that nobody should reveal their role unless they have a reason to do so (e.g. <color=#b8fb4f>Snitch</color> finishing their tasks to out the <color=#ff1919>Impostors</color>).</color></size>
 
-<size=125%><align=center><b><color=#d50d6c>✽ CHAT COMMANDS ♡</color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ C<color=#901353>HAT<color=#BC2B77> CO<color=#E5509B>MMA<color=#FF86BE>NDS<color=#FFD6E8> ♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Chat commands are a very useful asset, and each one has its own useful effect. Examples of some meeting commands can be found below:</color></size>
 
-<size=75%><color=#f89b29>/cmd m:</color> Explains your role and Add-On(s) in detail. A MUST USE if you don't know what your role does.</color></size>
+<size=75%><color=#3B0A57>/c</color><color=#60178C>m</color><color=#7F30B9>d</color><color=#9B56D9> </color><color=#B989EC>m</color><color=#E1C7FF>:</color> Explains your role and Add-On(s) in detail. A MUST USE if you don't know what your role does.</color></size>
 
-<size=75%><color=#f89b29>/cmd r [role name]:</color> Shows you what any role in the game does. Just type in the role. Typing /cmd r on its own shows every role enabled in the host's settings.</color></size>
+<size=75%><color=#3B0A57>/cmd</color><color=#60178C> r </color><color=#7F30B9>[ro</color><color=#9B56D9>le </color><color=#B989EC>nam</color><color=#E1C7FF>e]:</color> Shows you what any role in the game does. Just type in the role. Typing /cmd r on its own shows every role enabled in the host's settings.</color></size>
 
-<size=75%><color=#f89b29>/cmd kcount (can be disabled by host):</color> Displays the amount of <color=#ff1919>Impostors</color> and <color=#222222>Neutral</color> Killers remaining.</color></size>
+<size=75%><color=#3B0A57>/cmd kc</color><color=#60178C>ount (c</color><color=#7F30B9>an be </color><color=#9B56D9>disabl</color><color=#B989EC>ed by </color><color=#E1C7FF>host):</color> Displays the amount of <color=#ff1919>Impostors</color> and <color=#222222>Neutral</color> Killers remaining.</color></size>
 
-<size=75%><color=#f89b29>/l (not i, L):</color> Used in the lobby to show the results of the previous game. Displays who died to whom, everyone's roles, and who won the last game. Usually, hosts will make this message appear automatically after the round ends.</color></size>
+<size=75%><color=#3B0A57>/l </color><color=#60178C>(no</color><color=#7F30B9>t </color><color=#9B56D9>i,</color><color=#B989EC> L</color><color=#E1C7FF>):</color> Used in the lobby to show the results of the previous game. Displays who died to whom, everyone's roles, and who won the last game. Usually, hosts will make this message appear automatically after the round ends.</color></size>
 
-<size=125%><align=center><b><color=#d50d6c>✽ GUESSING ✽</color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ <color=#901353>GU<color=#BC2B77>ES<color=#E5509B>SI<color=#FF86BE>NG<color=#FFD6E8> ✽</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Guessing, or variants of guessing, are abilities that can be used by a select few roles. Usually, they involve guessing a certain player's role in order to kill them during a meeting or achieve other effects. Sometimes, hosts will make it so entire teams or even all players can guess.</color></size>
 
-<size=125%><align=center><b><color=#d50d6c>✽ HOW TO GUESS ✽</color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ H<color=#901353>OW <color=#BC2B77>TO <color=#E5509B>GUE<color=#FF86BE>SS<color=#FFD6E8> ✽</color></color></color></color></color></color></b></align></size>
 
 <size=75%>This guide will show the most common way to guess using the /cmd bt command.</color></size>
 
-<size=75%><color=#f89b29>#1. Figure out the player's role</color></size>
+<size=75%><color=#3B0A57>#1. Fi</color><color=#60178C>gure o</color><color=#7F30B9>ut th</color><color=#9B56D9>e pla</color><color=#B989EC>yer's</color><color=#E1C7FF> role</color></size>
 <size=75%>Before you can guess, you need to find out what their role is. If you've found out what their role is, you can guess them in the next meeting. For example, I know Blue is the <color=#b8fb4f>Snitch</color>, so moving on to step 2...</color></size>
 
-<size=75%><color=#f89b29>#2. Type /id</color></size>
+<size=75%><color=#3B0A57>#2</color><color=#60178C>. </color><color=#7F30B9>Ty</color><color=#9B56D9>pe</color><color=#B989EC> /</color><color=#E1C7FF>id</color></size>
 <size=75%>Typing /id will show a list of everyone and their respective ID, represented by a number from 1-15. I type /id and Blue's ID is 7. Sometimes, you may already see the IDs of all players without having to type this command. Now all that's left is...</color></size>
 
-<size=75%><color=#f89b29>#3. Type /cmd bt [player ID] [role]</color></size>
+<size=75%><color=#3B0A57>#3. Ty</color><color=#60178C>pe /cm</color><color=#7F30B9>d bt [</color><color=#9B56D9>player</color><color=#B989EC> ID] [</color><color=#E1C7FF>role]</color></size>
 <size=75%>In my case, it would be /cmd bt 7 <color=#b8fb4f>snitch</color>. Now, if correct, I have killed Blue, and now Blue will have to wallow in their shame as a ghost. How sad. But if I misguess, I have to wallow in my shame as I die if I guess wrong. How embarrassing.</color></size>
 
 <size=75%>Now, you should be caught up on all things EHR-related. Now go out there and win some games!</color></size>
 
-FAQ:<size=125%><align=center><b><color=#d50d6c>♡</color> <color=#f89b29>Frequently Asked Questions</color> <color=#d50d6c>♡</color></b></align></size>
+FAQ:<size=110%><align=center><b><color=#6B0B3B>♡ Fre<color=#901353>quent<color=#BC2B77>ly As<color=#E5509B>ked Q<color=#FF86BE>uesti<color=#FFD6E8>ons ♡</color></color></color></color></color></color></b></align></size>
 
-<size=75%><color=#f89b29>Q. I'm new. Where should I start?</color></size>
-<size=75%>Read /t Help first, then /t Commands.</color></size>
-<size=75%><color=#f89b29>Q. I'm dead. Should I leave?</color></size>
+<size=75%><color=#3B0A57>Q. I'm</color><color=#60178C> new. </color><color=#7F30B9>Where </color><color=#9B56D9>shoul</color><color=#B989EC>d I s</color><color=#E1C7FF>tart?</color></size>
+<size=75%>Read /t How To Play first, then /t Commands.</color></size>
+<size=75%><color=#3B0A57>Q. I'</color><color=#60178C>m dea</color><color=#7F30B9>d. Sh</color><color=#9B56D9>ould </color><color=#B989EC>I le</color><color=#E1C7FF>ave?</color></size>
 <size=75%>No. Stay until the game ends. Some roles can still use abilities after death.</color></size>
-<size=75%><color=#f89b29>Q. How do I know what my role does?</color></size>
+<size=75%><color=#3B0A57>Q. How</color><color=#60178C> do I </color><color=#7F30B9>know w</color><color=#9B56D9>hat my</color><color=#B989EC> role </color><color=#E1C7FF>does?</color></size>
 <size=75%>Use /cmd m during the game.</color></size>
-<size=75%><color=#f89b29>Q. How do I see all active roles?</color></size>
+<size=75%><color=#3B0A57>Q. How</color><color=#60178C> do I </color><color=#7F30B9>see al</color><color=#9B56D9>l act</color><color=#B989EC>ive r</color><color=#E1C7FF>oles?</color></size>
 <size=75%>Use /cmd r during the game.</color></size>
-<size=75%><color=#f89b29>Q. How do I check a specific role?</color></size>
+<size=75%><color=#3B0A57>Q. How</color><color=#60178C> do I </color><color=#7F30B9>check </color><color=#9B56D9>a spec</color><color=#B989EC>ific </color><color=#E1C7FF>role?</color></size>
 <size=75%>Use /cmd r [role_name].</color></size>
-<size=75%><color=#f89b29>Q. When can I use /cmd m?</color></size>
+<size=75%><color=#3B0A57>Q. Wh</color><color=#60178C>en c</color><color=#7F30B9>an I</color><color=#9B56D9> use</color><color=#B989EC> /cm</color><color=#E1C7FF>d m?</color></size>
 <size=75%>Only during a game. They cannot be used in the lobby.</color></size>
-<size=75%><color=#f89b29>Q. How do I see player IDs?</color></size>
+<size=75%><color=#3B0A57>Q. Ho</color><color=#60178C>w do </color><color=#7F30B9>I see</color><color=#9B56D9> pla</color><color=#B989EC>yer </color><color=#E1C7FF>IDs?</color></size>
 <size=75%>Use /id.</color></size>
-<size=75%><color=#f89b29>Q. How do I guess someone's role?</color></size>
+<size=75%><color=#3B0A57>Q. How</color><color=#60178C> do I </color><color=#7F30B9>guess </color><color=#9B56D9>someo</color><color=#B989EC>ne's </color><color=#E1C7FF>role?</color></size>
 <size=75%>Find their ID using /id, then use /cmd bt [Player_ID] [Role].</color></size>
-<size=75%><color=#f89b29>Q. What happens if I guess wrong?</color></size>
+<size=75%><color=#3B0A57>Q. Wha</color><color=#60178C>t happ</color><color=#7F30B9>ens if</color><color=#9B56D9> I gu</color><color=#B989EC>ess w</color><color=#E1C7FF>rong?</color></size>
 <size=75%>Depending on the host settings and your role, you may die.</color></size>
-<size=75%><color=#f89b29>Q. What is an Add-On?</color></size>
+<size=75%><color=#3B0A57>Q. W</color><color=#60178C>hat </color><color=#7F30B9>is a</color><color=#9B56D9>n A</color><color=#B989EC>dd-</color><color=#E1C7FF>On?</color></size>
 <size=75%>An Add-On gives extra abilities or disadvantages in addition to your main role.</color></size>
-<size=75%><color=#f89b29>Q. Can I have both a role and an Add-On?</color></size>
+<size=75%><color=#3B0A57>Q. Can </color><color=#60178C>I have </color><color=#7F30B9>both a </color><color=#9B56D9>role an</color><color=#B989EC>d an A</color><color=#E1C7FF>dd-On?</color></size>
 <size=75%>Yes.</color></size>
-<size=75%><color=#f89b29>Q. Should I reveal my role?</color></size>
+<size=75%><color=#3B0A57>Q. Sh</color><color=#60178C>ould </color><color=#7F30B9>I rev</color><color=#9B56D9>eal </color><color=#B989EC>my r</color><color=#E1C7FF>ole?</color></size>
 <size=75%>Usually no, unless your role benefits from revealing it.</color></size>
-<size=75%><color=#f89b29>Q. Why can't I use some commands?</color></size>
+<size=75%><color=#3B0A57>Q. Why</color><color=#60178C> can't</color><color=#7F30B9> I use</color><color=#9B56D9> some</color><color=#B989EC> comm</color><color=#E1C7FF>ands?</color></size>
 <size=75%>Some commands only work during meetings, while alive, or for specific roles.</color></size>
-<size=75%><color=#f89b29>Q. Why can't I use my ability?</color></size>
+<size=75%><color=#3B0A57>Q. Wh</color><color=#60178C>y can</color><color=#7F30B9>'t I </color><color=#9B56D9>use m</color><color=#B989EC>y abi</color><color=#E1C7FF>lity?</color></size>
 <size=75%>Your role may have conditions before it can use its ability. Read /cmd m.</color></size>
-<size=75%><color=#f89b29>Q. Why can't I report bodies or fix sabotages?</color></size>
+<size=75%><color=#3B0A57>Q. Why c</color><color=#60178C>an't I r</color><color=#7F30B9>eport bo</color><color=#9B56D9>dies or </color><color=#B989EC>fix sab</color><color=#E1C7FF>otages?</color></size>
 <size=75%>Some Add-Ons or roles disable these abilities.</color></size>
-<size=75%><color=#f89b29>Q. Why is my vision different?</color></size>
+<size=75%><color=#3B0A57>Q. Wh</color><color=#60178C>y is </color><color=#7F30B9>my vi</color><color=#9B56D9>sion </color><color=#B989EC>diffe</color><color=#E1C7FF>rent?</color></size>
 <size=75%>Your role, Add-On, or lobby settings may change your vision.</color></size>
-<size=75%><color=#f89b29>Q. Why did I suddenly die?</color></size>
+<size=75%><color=#3B0A57>Q. Wh</color><color=#60178C>y did</color><color=#7F30B9> I s</color><color=#9B56D9>udde</color><color=#B989EC>nly </color><color=#E1C7FF>die?</color></size>
 <size=75%>Another role's ability, an Add-On, or a guessing role may have killed you.</color></size>
-<size=75%><color=#f89b29>Q. Why didn't the game end?</color></size>
+<size=75%><color=#3B0A57>Q. Wh</color><color=#60178C>y did</color><color=#7F30B9>n't t</color><color=#9B56D9>he g</color><color=#B989EC>ame </color><color=#E1C7FF>end?</color></size>
 <size=75%>Another team's win condition has not been met yet.</color></size>
-<size=75%><color=#f89b29>Q. Why can't I vent?</color></size>
+<size=75%><color=#3B0A57>Q. W</color><color=#60178C>hy c</color><color=#7F30B9>an'</color><color=#9B56D9>t I</color><color=#B989EC> ve</color><color=#E1C7FF>nt?</color></size>
 <size=75%>Only certain roles can use vents.</color></size>
-<size=75%><color=#f89b29>Q. Can ghosts still do anything?</color></size>
+<size=75%><color=#3B0A57>Q. Can</color><color=#60178C> ghost</color><color=#7F30B9>s sti</color><color=#9B56D9>ll do</color><color=#B989EC> anyt</color><color=#E1C7FF>hing?</color></size>
 <size=75%>Yes. Some roles and Add-Ons allow ghosts to use abilities or complete tasks.</color></size>
-<size=75%><color=#f89b29>Q. What are the four role types?</color></size>
+<size=75%><color=#3B0A57>Q. Wha</color><color=#60178C>t are </color><color=#7F30B9>the f</color><color=#9B56D9>our r</color><color=#B989EC>ole t</color><color=#E1C7FF>ypes?</color></size>
 <size=75%><color=#8cffff>Crewmate</color>, <color=#ff1919>Impostor</color>, <color=#222222>Neutral</color>, and Add-On</color>.</color></size>
-<size=75%><color=#f89b29>Q. Where can I see every available command?</color></size>
+<size=75%><color=#3B0A57>Q. Where</color><color=#60178C> can I </color><color=#7F30B9>see eve</color><color=#9B56D9>ry avai</color><color=#B989EC>lable c</color><color=#E1C7FF>ommand?</color></size>
 <size=75%>Use /help.</color></size>
-<size=75%><color=#f89b29>Q. Where can I see every available tag?</color></size>
+<size=75%><color=#3B0A57>Q. Wher</color><color=#60178C>e can I</color><color=#7F30B9> see ev</color><color=#9B56D9>ery av</color><color=#B989EC>ailabl</color><color=#E1C7FF>e tag?</color></size>
 <size=75%>Use /t.</color></size>
-<size=75%><color=#f89b29>Q. What should I do if I'm confused?</color></size>
-<size=75%>Read /t Help, /t Commands, and /cmd m.</color></size>
-<size=75%><color=#f89b29>Q. Can I leave in the middle of a game?</color></size>
+<size=75%><color=#3B0A57>Q. Wha</color><color=#60178C>t shou</color><color=#7F30B9>ld I d</color><color=#9B56D9>o if I</color><color=#B989EC>'m con</color><color=#E1C7FF>fused?</color></size>
+<size=75%>Read /t How To Play, /t Commands, and /cmd m.</color></size>
+<size=75%><color=#3B0A57>Q. Can </color><color=#60178C>I leave</color><color=#7F30B9> in the</color><color=#9B56D9> middl</color><color=#B989EC>e of a</color><color=#E1C7FF> game?</color></size>
 <size=75%>Please don't. It ruins the experience for everyone.</color></size>
-<size=75%><color=#f89b29>Q. Are beginners welcome?</color></size>
+<size=75%><color=#3B0A57>Q. Ar</color><color=#60178C>e be</color><color=#7F30B9>ginn</color><color=#9B56D9>ers </color><color=#B989EC>welc</color><color=#E1C7FF>ome?</color></size>
 <size=75%>Absolutely! Everyone starts somewhere. Just be willing to learn.</color></size>
-<size=75%><color=#f89b29>Q. I still need help.</color></size>
+<size=75%><color=#3B0A57>Q. I</color><color=#60178C> sti</color><color=#7F30B9>ll n</color><color=#9B56D9>eed</color><color=#B989EC> he</color><color=#E1C7FF>lp.</color></size>
 <size=75%>DM @iam._.steve or @unoxlucky</color> on Discord.</color></size>
 
 lt[hidden]:
@@ -349,7 +301,7 @@ lt[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd lt</b></size>
@@ -378,7 +330,7 @@ dump[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd dump</b></size>
@@ -408,7 +360,7 @@ version[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd version</b></size>
@@ -440,7 +392,7 @@ v[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd version</b></size>
@@ -474,7 +426,7 @@ changesetting[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd changesetting [name] [?] [?]</b></size>
@@ -508,7 +460,7 @@ cs[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd changesetting [name] [?] [?]</b></size>
@@ -540,7 +492,7 @@ winner[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd winner</b></size>
@@ -572,7 +524,7 @@ win[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd winner</b></size>
@@ -604,7 +556,7 @@ lastresult[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd lastresult</b></size>
@@ -636,7 +588,7 @@ l[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd lastresult</b></size>
@@ -669,7 +621,7 @@ rename[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd rename [name]</b></size>
@@ -704,7 +656,7 @@ rn[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd rename [name]</b></size>
@@ -739,7 +691,7 @@ name[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd rename [name]</b></size>
@@ -773,7 +725,7 @@ hidename[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd hidename</b></size>
@@ -805,7 +757,7 @@ hn[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd hidename</b></size>
@@ -836,7 +788,7 @@ level[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd level [level]</b></size>
@@ -866,7 +818,7 @@ now[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd now</b></size>
@@ -898,7 +850,7 @@ n[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd now</b></size>
@@ -930,7 +882,7 @@ disconnect[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd disconnect [team]</b></size>
@@ -962,7 +914,7 @@ dis[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd disconnect [team]</b></size>
@@ -993,7 +945,7 @@ r[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd r [role]</b></size>
@@ -1022,7 +974,7 @@ up[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd up [role]</b></size>
@@ -1053,7 +1005,7 @@ setrole[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd setrole [id] [role]</b></size>
@@ -1086,7 +1038,7 @@ setaddon[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd setrole [id] [role]</b></size>
@@ -1118,7 +1070,7 @@ help[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd help</b></size>
@@ -1150,7 +1102,7 @@ h[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd help</b></size>
@@ -1185,7 +1137,7 @@ kcount[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd kcount</b></size>
@@ -1226,7 +1178,7 @@ gamestate[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd kcount</b></size>
@@ -1267,7 +1219,7 @@ gstate[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd kcount</b></size>
@@ -1308,7 +1260,7 @@ gs[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd kcount</b></size>
@@ -1349,7 +1301,7 @@ kc[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd kcount</b></size>
@@ -1386,7 +1338,7 @@ addmod[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd addmod [id]</b></size>
@@ -1415,7 +1367,7 @@ deletemod[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd deletemod [id]</b></size>
@@ -1447,7 +1399,7 @@ combo[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd combo [mode] [role] [addon] [all]</b></size>
@@ -1477,7 +1429,7 @@ effect[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd effect [effect]</b></size>
@@ -1509,7 +1461,7 @@ eff[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd effect [effect]</b></size>
@@ -1540,7 +1492,7 @@ afkexempt[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd afkexempt [id]</b></size>
@@ -1570,7 +1522,7 @@ myrole[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd myrole</b></size>
@@ -1602,7 +1554,7 @@ m[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd myrole</b></size>
@@ -1633,7 +1585,7 @@ tpout[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd tpout</b></size>
@@ -1662,7 +1614,7 @@ tpin[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd tpin</b></size>
@@ -1692,7 +1644,7 @@ template[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd template [tag]</b></size>
@@ -1724,7 +1676,7 @@ t[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd template [tag]</b></size>
@@ -1756,7 +1708,7 @@ messagewait[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd messagewait [duration]</b></size>
@@ -1788,7 +1740,7 @@ mw[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd messagewait [duration]</b></size>
@@ -1820,7 +1772,7 @@ death[hidden]:
 <size=75%>After Death</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd death [id]</b></size>
@@ -1852,7 +1804,7 @@ d[hidden]:
 <size=75%>After Death</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd death [id]</b></size>
@@ -1884,7 +1836,7 @@ say[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd say [message]</b></size>
@@ -1916,7 +1868,7 @@ s[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd say [message]</b></size>
@@ -1947,7 +1899,7 @@ vote[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd vote [id]</b></size>
@@ -1977,7 +1929,7 @@ ask[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd ask [number1] [number2]</b></size>
@@ -2007,7 +1959,7 @@ answer[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd answer [number]</b></size>
@@ -2039,7 +1991,7 @@ ans[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd answer [number]</b></size>
@@ -2070,7 +2022,7 @@ qa[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd qa [letter]</b></size>
@@ -2099,7 +2051,7 @@ qs[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd qs</b></size>
@@ -2128,7 +2080,7 @@ target[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd target [id]</b></size>
@@ -2157,7 +2109,7 @@ chat[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd chat [message]</b></size>
@@ -2187,7 +2139,7 @@ check[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd check [id] [role]</b></size>
@@ -2218,7 +2170,7 @@ ban[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd ban [id] [reason]</b></size>
@@ -2251,7 +2203,7 @@ kick[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd ban [id] [reason]</b></size>
@@ -2282,7 +2234,7 @@ exe[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd exe [id]</b></size>
@@ -2311,7 +2263,7 @@ kill[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd kill [id]</b></size>
@@ -2342,7 +2294,7 @@ colour[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd colour [color]</b></size>
@@ -2377,7 +2329,7 @@ color[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd colour [color]</b></size>
@@ -2412,7 +2364,7 @@ cor[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd colour [color]</b></size>
@@ -2446,7 +2398,7 @@ id[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd id</b></size>
@@ -2478,7 +2430,7 @@ guesslist[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd id</b></size>
@@ -2509,7 +2461,7 @@ changerole[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd changerole [role]</b></size>
@@ -2538,7 +2490,7 @@ end[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd end</b></size>
@@ -2567,7 +2519,7 @@ cosid[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd cosid</b></size>
@@ -2598,7 +2550,7 @@ mthy[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mthy</b></size>
@@ -2633,7 +2585,7 @@ mt[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mthy</b></size>
@@ -2668,7 +2620,7 @@ hy[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mthy</b></size>
@@ -2701,7 +2653,7 @@ csd[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd csd [sound]</b></size>
@@ -2730,7 +2682,7 @@ sd[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd sd [sound]</b></size>
@@ -2759,7 +2711,7 @@ gno[hidden]:
 <size=75%>After Death And In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gno [number]</b></size>
@@ -2792,7 +2744,7 @@ poll[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd poll [question] [answerA] [answerB] [answerC] [answerD]</b></size>
@@ -2821,7 +2773,7 @@ pv[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd pv [vote]</b></size>
@@ -2850,7 +2802,7 @@ hm[hidden]:
 <size=75%>After Death</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd hm [id]</b></size>
@@ -2879,7 +2831,7 @@ decree[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd decree [number]</b></size>
@@ -2908,7 +2860,7 @@ addvip[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd addvip [id]</b></size>
@@ -2937,7 +2889,7 @@ deletevip[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd deletevip [id]</b></size>
@@ -2967,7 +2919,7 @@ assume[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd assume [id] [number]</b></size>
@@ -2997,7 +2949,7 @@ note[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd note [action] [?]</b></size>
@@ -3028,7 +2980,7 @@ os[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd os [chance] [role]</b></size>
@@ -3061,7 +3013,7 @@ optionset[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd os [chance] [role]</b></size>
@@ -3093,7 +3045,7 @@ negotiation[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd negotiation [number]</b></size>
@@ -3125,7 +3077,7 @@ neg[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd negotiation [number]</b></size>
@@ -3157,7 +3109,7 @@ mute[hidden]:
 <size=75%>After Death And In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mute [id] [duration]</b></size>
@@ -3186,7 +3138,7 @@ unmute[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd unmute [id]</b></size>
@@ -3216,7 +3168,7 @@ draftstart[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd draftstart</b></size>
@@ -3248,7 +3200,7 @@ ds[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd draftstart</b></size>
@@ -3281,7 +3233,7 @@ draftdescription[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd draftdescription [index]</b></size>
@@ -3316,7 +3268,7 @@ dd[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd draftdescription [index]</b></size>
@@ -3351,7 +3303,7 @@ draftdesc[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd draftdescription [index]</b></size>
@@ -3384,7 +3336,7 @@ draft[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd draft [number]</b></size>
@@ -3414,7 +3366,7 @@ readycheck[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd readycheck</b></size>
@@ -3446,7 +3398,7 @@ rc[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd readycheck</b></size>
@@ -3477,7 +3429,7 @@ ready[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd ready</b></size>
@@ -3506,7 +3458,7 @@ enableallroles[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd enableallroles</b></size>
@@ -3535,7 +3487,7 @@ achievements[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd achievements</b></size>
@@ -3565,7 +3517,7 @@ deathnote[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd deathnote [name]</b></size>
@@ -3597,7 +3549,7 @@ dn[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd deathnote [name]</b></size>
@@ -3630,7 +3582,7 @@ whisper[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd whisper [ids] [message]</b></size>
@@ -3663,7 +3615,7 @@ w[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd whisper [ids] [message]</b></size>
@@ -3696,7 +3648,7 @@ hwhisper[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd hwhisper [id] [message]</b></size>
@@ -3729,7 +3681,7 @@ hw[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd hwhisper [id] [message]</b></size>
@@ -3760,7 +3712,7 @@ spectate[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd spectate [id]</b></size>
@@ -3789,7 +3741,7 @@ anagram[hidden]:
 <size=75%>After Death And In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd anagram</b></size>
@@ -3819,7 +3771,7 @@ rolelist[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd rolelist</b></size>
@@ -3851,7 +3803,7 @@ rl[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd rolelist</b></size>
@@ -3883,7 +3835,7 @@ jailtalk[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd jailtalk [message]</b></size>
@@ -3915,7 +3867,7 @@ jt[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd jailtalk [message]</b></size>
@@ -3949,7 +3901,7 @@ gamemodelist[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodelist</b></size>
@@ -3987,7 +3939,7 @@ gm[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodelist</b></size>
@@ -4025,7 +3977,7 @@ gml[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodelist</b></size>
@@ -4063,7 +4015,7 @@ gamemodes[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodelist</b></size>
@@ -4101,7 +4053,7 @@ gamemodepoll[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodepoll</b></size>
@@ -4139,7 +4091,7 @@ gmp[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodepoll</b></size>
@@ -4177,7 +4129,7 @@ gmpoll[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodepoll</b></size>
@@ -4215,7 +4167,7 @@ pollgm[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd gamemodepoll</b></size>
@@ -4253,7 +4205,7 @@ mappoll[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mappoll</b></size>
@@ -4291,7 +4243,7 @@ mp[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mappoll</b></size>
@@ -4329,7 +4281,7 @@ mpoll[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mappoll</b></size>
@@ -4367,7 +4319,7 @@ pollm[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd mappoll</b></size>
@@ -4403,7 +4355,7 @@ presetpoll[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd presetpoll</b></size>
@@ -4435,7 +4387,7 @@ ppoll[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd presetpoll</b></size>
@@ -4468,7 +4420,7 @@ changepreset[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd changepreset [preset]</b></size>
@@ -4503,7 +4455,7 @@ presetchange[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd changepreset [preset]</b></size>
@@ -4538,7 +4490,7 @@ chp[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd changepreset [preset]</b></size>
@@ -4572,7 +4524,7 @@ eightball[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd eightball [question]</b></size>
@@ -4604,7 +4556,7 @@ eightball[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd eightball [question]</b></size>
@@ -4638,7 +4590,7 @@ addtag[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd addtag [id] [color] [tag]</b></size>
@@ -4672,7 +4624,7 @@ createtag[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd addtag [id] [color] [tag]</b></size>
@@ -4703,7 +4655,7 @@ deletetag[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd deletetag [id]</b></size>
@@ -4733,7 +4685,7 @@ daybreak[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd daybreak</b></size>
@@ -4765,7 +4717,7 @@ db[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd daybreak</b></size>
@@ -4798,7 +4750,7 @@ fix[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd fix [id]</b></size>
@@ -4833,7 +4785,7 @@ blackscreenfix[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd fix [id]</b></size>
@@ -4868,7 +4820,7 @@ fixblackscreen[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd fix [id]</b></size>
@@ -4902,7 +4854,7 @@ xor[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd xor [role] [role]</b></size>
@@ -4932,7 +4884,7 @@ chemistinfo[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd chemistinfo</b></size>
@@ -4964,7 +4916,7 @@ ci[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd chemistinfo</b></size>
@@ -4996,7 +4948,7 @@ forge[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd forge [id] [role]</b></size>
@@ -5026,7 +4978,7 @@ choose[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd choose [role]</b></size>
@@ -5058,7 +5010,7 @@ pick[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd choose [role]</b></size>
@@ -5089,7 +5041,7 @@ pick[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd *CommandForms.Mark [id]</b></size>
@@ -5121,7 +5073,7 @@ copypreset[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd copypreset [sourcepreset] [targetpreset]</b></size>
@@ -5157,7 +5109,7 @@ presetcopy[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd copypreset [sourcepreset] [targetpreset]</b></size>
@@ -5193,7 +5145,7 @@ cpp[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd copypreset [sourcepreset] [targetpreset]</b></size>
@@ -5226,7 +5178,7 @@ addadmin[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd addadmin [id]</b></size>
@@ -5255,7 +5207,7 @@ deleteadmin[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd deleteadmin [id]</b></size>
@@ -5285,7 +5237,7 @@ votestart[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd votestart</b></size>
@@ -5317,7 +5269,7 @@ vs[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd votestart</b></size>
@@ -5348,7 +5300,7 @@ imitate[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd imitate [id]</b></size>
@@ -5378,7 +5330,7 @@ retribute[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd retribute [id]</b></size>
@@ -5410,7 +5362,7 @@ ret[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd retribute [id]</b></size>
@@ -5441,7 +5393,7 @@ revive[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd revive [id]</b></size>
@@ -5471,7 +5423,7 @@ select[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd select [id] [role]</b></size>
@@ -5500,7 +5452,7 @@ uiscale[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd uiscale [scale]</b></size>
@@ -5529,7 +5481,7 @@ fabricate[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd fabricate [deathreason]</b></size>
@@ -5558,7 +5510,7 @@ start[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd start</b></size>
@@ -5587,7 +5539,7 @@ startnow[hidden]:
 <size=75%>In Lobby</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd startnow</b></size>
@@ -5616,7 +5568,7 @@ summon[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd summon [id]</b></size>
@@ -5645,7 +5597,7 @@ coveninfo[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd coveninfo</b></size>
@@ -5674,7 +5626,7 @@ neutralinfo[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd neutralinfo</b></size>
@@ -5704,7 +5656,7 @@ playerinfo[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd playerinfo [id]</b></size>
@@ -5736,7 +5688,7 @@ pi[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd playerinfo [id]</b></size>
@@ -5768,7 +5720,7 @@ timelimit[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd timelimit</b></size>
@@ -5800,7 +5752,7 @@ til[hidden]:
 <size=75%>In Game</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd timelimit</b></size>
@@ -5831,7 +5783,7 @@ exo[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd exo</b></size>
@@ -5860,7 +5812,7 @@ reroll[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd is needed</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> i</color><color=#B85F00>s </color><color=#E07C0D>ne</color><color=#FFA23A>ed</color><color=#FFD19E>ed</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd reroll</b></size>
@@ -5889,7 +5841,7 @@ confirmauth[hidden]:
 <size=75%>Always</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd confirmauth [uuid]</b></size>
@@ -5923,7 +5875,7 @@ guess[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd guess [id] [role]</b></size>
@@ -5965,7 +5917,7 @@ shoot[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd guess [id] [role]</b></size>
@@ -6007,7 +5959,7 @@ bet[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd guess [id] [role]</b></size>
@@ -6049,7 +6001,7 @@ bt[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd guess [id] [role]</b></size>
@@ -6091,7 +6043,7 @@ st[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd guess [id] [role]</b></size>
@@ -6131,7 +6083,7 @@ trial[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd trial [id]</b></size>
@@ -6169,7 +6121,7 @@ tl[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd trial [id]</b></size>
@@ -6207,7 +6159,7 @@ sp[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd trial [id]</b></size>
@@ -6245,7 +6197,7 @@ jj[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd trial [id]</b></size>
@@ -6282,7 +6234,7 @@ swap[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd swap [id]</b></size>
@@ -6317,7 +6269,7 @@ sw[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd swap [id]</b></size>
@@ -6352,7 +6304,7 @@ st[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd swap [id]</b></size>
@@ -6387,7 +6339,7 @@ compare[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd compare [id1] [id2]</b></size>
@@ -6420,7 +6372,7 @@ cmp[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd compare [id1] [id2]</b></size>
@@ -6453,7 +6405,7 @@ medium[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd medium [answer]</b></size>
@@ -6488,7 +6440,7 @@ ms[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd medium [answer]</b></size>
@@ -6523,7 +6475,7 @@ mediumship[hidden]:
 <size=75%>In Meetings</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd medium [answer]</b></size>
@@ -6557,7 +6509,7 @@ revenge[hidden]:
 <size=75%>After Death</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd revenge [id]</b></size>
@@ -6589,7 +6541,7 @@ rv[hidden]:
 <size=75%>After Death</size>
 
 <size=93%>'cmd' prefix required</size>
-<size=75%><color=#ff3f6a>cmd use optional</color></size>
+<size=75%><color=#5C2D00>cmd</color><color=#8D4700> us</color><color=#B85F00>e o</color><color=#E07C0D>pti</color><color=#FFA23A>on</color><color=#FFD19E>al</color></size>
 
 <size=93%>How to Write Using cmd</size>
 <size=75%><b>/cmd revenge [id]</b></size>
