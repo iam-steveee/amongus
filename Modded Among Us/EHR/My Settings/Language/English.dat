@@ -1,4 +1,4 @@
-HostText:<font="NotoSansJP-Regular SDF"><color=#4C1D95>♥<color=#651FB1>G<color=#7E22CE>o<color=#933BE2>o<color=#A855F7>d <color=#C084FA>B<color=#D8B4FE>o<color=#E6C2FE>y<color=#F5D0FE>♥</color></font>
+HostText:<font="NotoSansJP-Regular SDF"><color=#6B0B3B>♥ G<color=#901353>o<color=#BC2B77>o<color=#E5509B>d <color=#FF86BE>B<color=#FFD6E8>oy ♥</color></color></color></color></color></color></font>
 HostColor:#F5D0FE
 HostIconInMeeting:HOST: {0}
 Icon: | 
@@ -9,7 +9,7 @@ ThankYouForUsingEHR:Thank you for using EHR!
 GLHF:Good Luck & Have Fun!
 GameOver:Game Over
 Win: Wins!
-DefaultSystemMessageTitle:<color=#430010>S<color=#4D0012>T<color=#580015>E<color=#630018>V<color=#6E001B>E<color=#79031E>'<color=#840722>S <color=#8F0B26>S<color=#9A0F2A>Y<color=#A81A32>S<color=#B7253A>T<color=#C53042>E<color=#D43C4B>M <color=#DE4F5E>M<color=#E96372>S<color=#F47686>G <color=#FF8A9A>ッ</color>
+DefaultSystemMessageTitle:<color=#6B0B3B>STE<color=#901353>VE'<color=#BC2B77>S S<color=#E5509B>YST<color=#FF86BE>EM M<color=#FFD6E8>SG ツ</color></color></color></color></color></color>
 MessageFromTheHost:▶ [ Important ♡ STEVE ♡ Said - ] ◀
 MessageFromDev:★[ Developer ]★
 MessageFromGurge44:★[ Gurge44 ]★
@@ -10817,6 +10817,58 @@ CommandDescription.StartNow:Starts the game immediately, without the countdown
 CommandForms.StartNow:startnow
 UsesJudgeAbilityAsTriggerNotice:<#ffff00>⚠ As this role, instead of commands and votes, you need to 'judge' your selected target!</color> <size=70%>(They won't actually be judged. This is just an ability trigger!)</size>
 AnagramDisabled:<#ff0000>X</color> The /anagram command is disabled in this lobby.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
