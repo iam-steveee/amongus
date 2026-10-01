@@ -1,14 +1,13 @@
 @echo off
 setlocal enabledelayedexpansion
 
-echo "Downloading Modded Regions from https://iam-steveee.github.io/moddedau"
+echo "Downloading Modded Regions from https://iam-steveee.github.io/moddedau/regions/regioninfo.json"
 echo "This script downloads the following regions:"
 echo " -------- "
 echo "  - Modded(NA)"
 echo "  - Modded(EU)"
 echo "  - Modded(AS)"
 echo "  - Niko233(NA)"
-echo "  - Niko233(EU)"
 echo "  - Niko233(AS)"
 echo "  - MAUL(NA)"
 echo "  - MAUL(EU)"
@@ -20,7 +19,7 @@ echo.
 where curl >nul 2>nul
 IF %ERRORLEVEL% NEQ 0 (
     echo "Warning, you do not have CURL installed."
-    echo "Please manually download regionInfo from https://iam-steveee.github.io/moddedau/regioninfo.json"
+    echo "Please manually download regionInfo from https://iam-steveee.github.io/moddedau/regions/regioninfo.json"
     echo "And replace it with your new regionInfo.json (path depends on your platform)."
     pause
     exit /b
@@ -73,7 +72,7 @@ echo.
 echo Target file: "!TARGET_PATH!"
 echo.
 
-curl -L --create-dirs --output "!TARGET_PATH!" --url "https://iam-steveee.github.io/moddedau/regioninfo.json"
+curl -L --create-dirs --output "!TARGET_PATH!" --url "https://iam-steveee.github.io/moddedau/regions/regioninfo.json"
 
 IF %ERRORLEVEL% NEQ 0 (
     echo "Download failed. Please check your internet connection and try again."
