@@ -1,9 +1,9 @@
-HostText:<font="NotoSansJP-Regular SDF"><color=#6B0B3B>♥ G<color=#901353>o<color=#BC2B77>o<color=#E5509B>d <color=#FF86BE>B<color=#FFD6E8>oy ♥</color></color></color></color></color></color></font>
+HostText:<font="NotoSansJP-Regular SDF"><color=#6B0B3B>G<color=#901353>o<color=#BC2B77>o<color=#E5509B>d <color=#FF86BE>B<color=#FFD6E8>oy  ♥
 HostColor:#F5D0FE
 HostIconInMeeting:HOST: {0}
-Icon: | 
+Icon: 
 IconColor:#00a5ff
-NameColor:#F5D0FE
+NameColor:#FF86BE
 EHRVisitorCount:To date EHR has been used <color={0}>{1}</color> times~
 ThankYouForUsingEHR:Thank you for using EHR!
 GLHF:Good Luck & Have Fun!
@@ -10817,6 +10817,45 @@ CommandDescription.StartNow:Starts the game immediately, without the countdown
 CommandForms.StartNow:startnow
 UsesJudgeAbilityAsTriggerNotice:<#ffff00>⚠ As this role, instead of commands and votes, you need to 'judge' your selected target!</color> <size=70%>(They won't actually be judged. This is just an ability trigger!)</size>
 AnagramDisabled:<#ff0000>X</color> The /anagram command is disabled in this lobby.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
