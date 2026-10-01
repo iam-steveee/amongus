@@ -1,19 +1,23 @@
-Welcome[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡Welc<color=#901353>ome, L<color=#BC2B77>adies <color=#E5509B>and Ge<color=#FF86BE>ntal M<color=#FFD6E8>en!♡</color></color></color></color></color></color></b></align></size>
+Guide:<size=110%><b><color=#6B0B3B>✽ Re<color=#901353>comm<color=#BC2B77>ende<color=#E5509B>d Ta<color=#FF86BE>gs ✽</color></color></color></color></color></b></size>
+
+<size=75%><b>Recommended For Beginners:</b></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>t</color><color=#7F30B9> F</color><color=#9B56D9>A</color><color=#B989EC>Q</color><color=#E1C7FF></color></size> - <size=75%>Read answers to common questions.</size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> H</color><color=#7F30B9>ow</color><color=#9B56D9>To</color><color=#B989EC>Pl</color><color=#E1C7FF>ay</color></size> - <size=75%>Get proper guidance on how to play Modded.</size>
+<size=75%><color=#3B0A57>/t </color><color=#60178C>[co</color><color=#7F30B9>mma</color><color=#9B56D9>nd_</color><color=#B989EC>nam</color><color=#E1C7FF>e]</color></size> - <size=75%>View detailed information about a command.</size>
+
+<size=75%><b>Highly Recommended For Beginners:</b></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>t</color></size> - <size=75%>View every available tag.</size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> [</color><color=#7F30B9>t</color><color=#9B56D9>a</color><color=#B989EC>g</color><color=#E1C7FF>]</color></size> - <size=75%>Read information about a specific tag.</size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> C</color><color=#7F30B9>om</color><color=#9B56D9>ma</color><color=#B989EC>nd</color><color=#E1C7FF>s</color></size> - <size=75%>View every important in-game command.</size>
+
+Welcome[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡Welc<color=#901353>ome, L<color=#BC2B77>adies <color=#E5509B>and Ge<color=#FF86BE>ntal M<color=#FF86BE>en!♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Lobby Host</color></size>: <size=75%>{{HostName}}</color></size>
 <size=75%>Discord Username</color></size>: <size=75%>@iam._.steve</color></size>
 
-<size=110%><b><color=#6B0B3B>✽ Sug<color=#901353>geste<color=#BC2B77>d For<color=#E5509B> Beg<color=#FF86BE>inne<color=#FFD6E8>rs ✽</color></color></color></color></color></color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Re<color=#901353>comm<color=#BC2B77>ende<color=#E5509B>d Co<color=#FF86BE>mman<color=#FF86BE>ds ✽</color></color></color></color></color></color></b></size>
 
-<size=75%>Users are suggested to read the available tags.</color></size>
-<size=75%>(If you are a beginner, this might help!)</color></size>
-
-<size=110%><b><color=#6B0B3B>✽ Re<color=#901353>comm<color=#BC2B77>ende<color=#E5509B>d Co<color=#FF86BE>mman<color=#FFD6E8>ds ✽</color></color></color></color></color></color></b></size>
-
-<size=75%><color=#3B0A57>/t</color><color=#60178C> C</color><color=#7F30B9>om</color><color=#9B56D9>ma</color><color=#B989EC>nd</color><color=#E1C7FF>s</color></size> - <size=75%>It will give you all the important commands usable in-game.</color></size>
-<size=75%><color=#3B0A57>/t</color><color=#60178C> </color><color=#7F30B9>H</color><color=#9B56D9>e</color><color=#B989EC>l</color><color=#E1C7FF>p</color></size> - <size=75%>It will give you proper guidance on how to play Modded. Please make sure to check it out.</color></size>
-<size=75%><color=#3B0A57>/</color><color=#60178C>t</color></size> - <size=75%>This will list all the available tags.</color></size>
-<size=75%><color=#3B0A57>/t </color><color=#60178C>[t</color><color=#7F30B9>ag</color><color=#9B56D9>_n</color><color=#B989EC>am</color><color=#E1C7FF>e]</color></size> - <size=75%>Get information about any specific tag.</color></size>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> G</color><color=#7F30B9>ui</color><color=#9B56D9>de</color></size> - <size=75%>Read this guide carefully. Seriously, take your time and read it properly. It's important, so don't skip it.</size>
 
 <size=75%>Didn't understand?</color></size> <size=75%>DM </color>@iam._.steve OR @unoxlucky</color> on Discord.</color></size>
 
@@ -74,51 +78,55 @@ Vipcommands[rank=VIP]:<size=110%><color=#5C2D00>Welco<color=#8D4700>me, P<color=
 
 <size=75%><color=#5C2D00>These co</color><color=#8D4700>mmands a</color><color=#B85F00>re avai</color><color=#E07C0D>lable t</color><color=#FFA23A>o VIP m</color><color=#FFD19E>embers.</color></size>
 
-Notification[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡ L<color=#901353>obb<color=#BC2B77>y S<color=#E5509B>tat<color=#FF86BE>us<color=#FFD6E8> ♡</color></color></color></color></color></color></b></align></size>
+Notification[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡ L<color=#901353>obb<color=#BC2B77>y S<color=#E5509B>tat<color=#FF86BE>us<color=#FF86BE> ♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Host</color></size>: <size=75%>{{HostName}}</color></size>
 <size=75%>Room Code</color></size>: <size=75%>{{RoomCode}}</color></size>
 <size=75%>Map</color></size>: <size=75%>{{Map}}</color></size>
 
-<size=110%><b><color=#6B0B3B>✽ He<color=#901353>lpfu<color=#BC2B77>l C<color=#E5509B>omm<color=#FF86BE>and<color=#FFD6E8>s ✽</color></color></color></color></color></color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Im<color=#901353>por<color=#BC2B77>tan<color=#E5509B>t ✽</color></color></color></color></b></size>
 
-<size=75%><color=#3B0A57>/t</color><color=#60178C> </color><color=#7F30B9>H</color><color=#9B56D9>e</color><color=#B989EC>l</color><color=#E1C7FF>p</color></size> - <size=75%>Learn how to play Modded Among Us.</color></size>
-<size=75%><color=#3B0A57>/t</color><color=#60178C> C</color><color=#7F30B9>om</color><color=#9B56D9>ma</color><color=#B989EC>nd</color><color=#E1C7FF>s</color></size> -  <size=75%>View every important in-game command.</color></size>
-<size=75%><color=#3B0A57>/t </color><color=#60178C>[co</color><color=#7F30B9>mma</color><color=#9B56D9>nd_</color><color=#B989EC>nam</color><color=#E1C7FF>e]</color></size> -  <size=75%>View command detailed information</color></size>
-<size=75%><color=#3B0A57>/</color><color=#60178C>t</color><color=#7F30B9> </color><color=#9B56D9>F</color><color=#B989EC>A</color><color=#E1C7FF>Q</color></size> - <size=75%>Read answers to common questions.</color></size>
-<size=75%><color=#3B0A57>/</color><color=#60178C>c</color><color=#7F30B9>m</color><color=#9B56D9>d</color><color=#B989EC> </color><color=#E1C7FF>r</color></size> - <size=75%>Check all active roles.</color></size>
-<size=75%><color=#3B0A57>/cm</color><color=#60178C>d r</color><color=#7F30B9> [r</color><color=#9B56D9>ole</color><color=#B989EC>_na</color><color=#E1C7FF>me]</color></size> - <size=75%>View detailed information about a role.</color></size>
-<size=75%><color=#3B0A57>/cmd</color><color=#60178C> bt</color><color=#7F30B9> [i</color><color=#9B56D9>d] </color><color=#B989EC>[ro</color><color=#E1C7FF>le]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
+<size=75%><b>Gentle Reminder.</b>
+<size=75%><color=#3B0A57>/t</color><color=#60178C> G</color><color=#7F30B9>ui</color><color=#9B56D9>de</color></size> - <size=75%>Read this guide carefully. Seriously, take your time and read it properly. It's important, so don't skip it.</size>
 <size=75%><color=#3B0A57>/</color><color=#60178C>r</color><color=#7F30B9>e</color><color=#9B56D9>a</color><color=#B989EC>d</color><color=#E1C7FF>y</color></size> - <size=75%>Tell the host you're ready to start.</color></size>
 
 <size=75%>Ask Steve Or Lucky</color> or any experienced player if you're confused.</color></size>
 
-Commands:<size=110%><align=center><b><color=#6B0B3B>♡ C<color=#901353>omm<color=#BC2B77>and<color=#E5509B> Us<color=#FF86BE>age<color=#FFD6E8> ♡</color></color></color></color></color></color></b></align></size>
+Commands:<size=110%><align=center><b><color=#6B0B3B>♡ C<color=#901353>omm<color=#BC2B77>and<color=#E5509B> Us<color=#FF86BE>age<color=#FF86BE> ♡</color></color></color></color></color></color></b></align></size>
 
 <size=85%><align=center>Use these commands during the game to access role information or activate role abilities.</color></align></size>
 <size=85%><align=center>Use <b>/t [command_name]</b> for command details.</color></align></size>
 
-<size=110%><b><color=#6B0B3B>✽ Ge<color=#901353>nera<color=#BC2B77>l C<color=#E5509B>omm<color=#FF86BE>and<color=#FFD6E8>s ✽</color></color></color></color></color></color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Re<color=#901353>comm<color=#BC2B77>ende<color=#E5509B>d Co<color=#FF86BE>mman<color=#FF86BE>ds ✽</color></color></color></color></color></color></b></size>
 
+<size=75%><b><color=#3B0A57>/</color><color=#60178C>h</color><color=#7F30B9>el</color><color=#9B56D9>p</color></size> - <size=75%>Use this command to list all commands in-game.</b></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>r</color><color=#7F30B9>e</color><color=#9B56D9>a</color><color=#B989EC>d</color><color=#E1C7FF>y</color></size> - <size=75%>Tell the host you're ready to start.</color></size>
+<size=75%><color=#3B0A57>/</color><color=#60178C>v</color><color=#7F30B9>s</color></size> - <size=75%>Start your game by voting. [If the majority uses this command, players can start the game instead of the host.]</size>
 <size=75%><color=#3B0A57>/</color><color=#60178C>c</color><color=#7F30B9>m</color><color=#9B56D9>d</color><color=#B989EC> </color><color=#E1C7FF>m</color></size> - <size=75%>Get your role details.</color></size>
 <size=75%><color=#3B0A57>/</color><color=#60178C>c</color><color=#7F30B9>m</color><color=#9B56D9>d</color><color=#B989EC> </color><color=#E1C7FF>r</color></size> - <size=75%>View the active role list.</color></size>
-<size=75%><color=#3B0A57>/cm</color><color=#60178C>d </color><color=#7F30B9>r </color><color=#9B56D9>[r</color><color=#B989EC>ol</color><color=#E1C7FF>e]</color></size> - <size=75%>Get detailed information about a role.</color></size>
-<size=75%><color=#3B0A57>/c</color><color=#60178C>md</color><color=#7F30B9> d</color><color=#9B56D9>ea</color><color=#B989EC>t</color><color=#E1C7FF>h</color></size> - <size=75%>Get your death information. Can Do /cmd death [id] to check other death reason, work only after death.</color></size>
-<size=75%><color=#3B0A57>/c</color><color=#60178C>md</color><color=#7F30B9> k</color><color=#9B56D9>co</color><color=#B989EC>un</color><color=#E1C7FF>t</color></size> - <size=75%>View the number of alive killers (if enabled).</color></size>
+<size=75%><color=#3B0A57>/cmd</color><color=#60178C> bt</color><color=#7F30B9> [i</color><color=#9B56D9>d] </color><color=#B989EC>[ro</color><color=#E1C7FF>le]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
 <size=75%><color=#3B0A57>/cmd</color><color=#60178C> vot</color><color=#7F30B9>e [P</color><color=#9B56D9>lay</color><color=#B989EC>er_</color><color=#E1C7FF>Id]</color></size> - <size=75%>Vote for a player.</color></size>
 <size=75%><color=#3B0A57>/cm</color><color=#60178C>d </color><color=#7F30B9>vo</color><color=#9B56D9>te</color><color=#B989EC> 2</color><color=#E1C7FF>53</color></size> - <size=75%>Skip your vote.</color></size>
-<size=75%><color=#3B0A57>/cmd</color><color=#60178C> bt</color><color=#7F30B9> [i</color><color=#9B56D9>d] </color><color=#B989EC>[ro</color><color=#E1C7FF>le]</color></size> - <size=75%>Guess Any Role (Wrong Guess Will Kill You).</color></size>
+<size=75%><color=#3B0A57>/c</color><color=#60178C>md</color><color=#7F30B9> d</color><color=#9B56D9>ea</color><color=#B989EC>t</color><color=#E1C7FF>h</color></size> - <size=75%>Get your death information, [works only after death].</color></size>
+<size=75%><color=#3B0A57>/c</color><color=#60178C>md </color><color=#7F30B9>dea</color><color=#9B56D9>th </color><color=#B989EC>[id</color><color=#E1C7FF>]</color></size> - <size=75%>Check other players death reason, [works only after death].</size>
+<size=75%><color=#3B0A57>/c</color><color=#60178C>md</color><color=#7F30B9> k</color><color=#9B56D9>co</color><color=#B989EC>un</color><color=#E1C7FF>t</color></size> - <size=75%>View the number of alive killers (if enabled).</color></size>
 
-<size=110%><b><color=#6B0B3B>✽ Di<color=#901353>ed <color=#BC2B77>Too<color=#E5509B> Ea<color=#FF86BE>rly<color=#FFD6E8>? ✽</color></color></color></color></color></color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Di<color=#901353>ed <color=#BC2B77>Too<color=#E5509B> Ea<color=#FF86BE>rly<color=#FF86BE>? ✽</color></color></color></color></color></color></b></size>
 
 <size=75%><color=#3B0A57>/</color><color=#60178C>8</color><color=#7F30B9>b</color><color=#9B56D9>a</color><color=#B989EC>l</color><color=#E1C7FF>l</color></size> - <size=75%>Try your luck.</color></size>
 <size=75%><color=#3B0A57>/</color><color=#60178C>g</color><color=#7F30B9>n</color><color=#9B56D9>o</color></size> - <size=75%>Use this while waiting for the game to end.</color></size>
 
-<size=110%><b><color=#6B0B3B>✽ Im<color=#901353>port<color=#BC2B77>ant<color=#E5509B> No<color=#FF86BE>tic<color=#FFD6E8>e ✽</color></color></color></color></color></color></b></size>
+<size=110%><b><color=#6B0B3B>✽ Im<color=#901353>por<color=#BC2B77>tan<color=#E5509B>t ✽</color></color></color></color></b></size>
 
-<size=75%><color=#5C2D00>U</color><color=#8D4700>s</color><color=#B85F00>e</color> /cmd <color=#5C2D00>befo</color><color=#8D4700>re e</color><color=#B85F00>ver</color><color=#E07C0D>y c</color><color=#FFA23A>omm</color><color=#FFD19E>and</color> or your commands would be visible to everyone.</size>
-<size=75%>Imagine you are guessing someone. If you guessed right, they will see that you wrote that command. So, use /cmd so it will hide your commands.</size>
-<size=75%><color=#5C2D00>If </color><color=#8D4700>you</color><color=#B85F00> ar</color><color=#E07C0D>e u</color><color=#FFA23A>si</color><color=#FFD19E>ng</color> /cmd<color=#5C2D00>, then don</color><color=#8D4700>'t use an</color><color=#B85F00> extra sl</color><color=#E07C0D>ash (/) b</color><color=#FFA23A>efore the</color><color=#FFD19E> command.</color></size>
+<size=75%>If You are Reading Commands Tag, Make Sure to Check Notice by using <color=#3B0A57>/</color><color=#60178C>t </color><color=#7F30B9>Co</color><color=#9B56D9>mma</color><color=#B989EC>nds</color><color=#E1C7FF>Notice</color></size>
+<size=75%>One more thing: <color=#3B0A57>/c</color><color=#60178C>md</color> is a prefix. This means that when using <color=#3B0A57>/t </color><color=#60178C>[co</color><color=#7F30B9>mma</color><color=#9B56D9>nd_</color><color=#B989EC>nam</color><color=#E1C7FF>e]</color>, make sure to enter only the command name you want to search for.</size>
+<size=75%>For example, if you don't know what <color=#3B0A57>/c</color><color=#60178C>md </color><color=#7F30B9>dea</color><color=#9B56D9>th</color> does and want to find its information, use <color=#3B0A57>/t </color><color=#60178C>de</color><color=#7F30B9>at</color><color=#9B56D9>h</color>. Since <color=#3B0A57>/c</color><color=#60178C>md</color> is already the prefix, don't type <color=#3B0A57>/t </color><color=#60178C>/c</color><color=#7F30B9>md </color><color=#9B56D9>dea</color><color=#B989EC>th</color> when searching.</size>
+
+CommandsNotice[hidden]:<size=110%><b><color=#6B0B3B>✽ Im<color=#901353>port<color=#BC2B77>ant<color=#E5509B> No<color=#FF86BE>tic<color=#FF86BE>e ✽</color></color></color></color></color></color></b></size>
+
+<size=75%><color=#5C2D00>U</color><color=#8D4700>s</color><color=#B85F00>e</color> /cmd <color=#5C2D00>befo</color><color=#8D4700>re e</color><color=#B85F00>ver</color><color=#E07C0D>y c</color><color=#FFA23A>omm</color><color=#FFD19E>and</color> or your commands will be visible to everyone.</size>
+<size=75%>For example, if you are guessing someone and your guess is correct, they may see the command you used. Using /cmd hides your command from others.</size>
+<size=75%><color=#5C2D00>If </color><color=#8D4700>you</color><color=#B85F00> ar</color><color=#E07C0D>e u</color><color=#FFA23A>si</color><color=#FFD19E>ng</color> /cmd<color=#5C2D00>, don't use an</color><color=#8D4700> extra sl</color><color=#B85F00>ash (/) b</color><color=#E07C0D>efore the</color><color=#FFA23A> command.</color></size>
 
 <size=75%><color=#5C2D00>Do</color><color=#8D4700>n'</color><color=#B85F00>t </color><color=#E07C0D>us</color><color=#FFA23A>e</color><color=#FFD19E>:</color></size>
 <size=75%><b>/cmd /r</b></size>
@@ -131,7 +139,7 @@ Commands:<size=110%><align=center><b><color=#6B0B3B>♡ C<color=#901353>omm<colo
 <size=75%><b>/cmd bt [id] [role]</b></size>
 
 <size=75%><color=#5C2D00>Just d</color><color=#8D4700>on't u</color><color=#B85F00>se the</color><color=#E07C0D> extra</color><color=#FFA23A> slash</color><color=#FFD19E> (/).</color></size>
-<size=75%><color=#5C2D00>While guessing o</color><color=#8D4700>r doing anything</color><color=#B85F00> where you don't</color><color=#E07C0D> want your comma</color><color=#FFA23A>nds to be visibl</color><color=#FFD19E>e to others, use</color> /cmd<color=#5C2D00>.</color></size>
+<size=75%><color=#5C2D00>When guessing o</color><color=#8D4700>r doing anything</color><color=#B85F00> where you don't</color><color=#E07C0D> want your comma</color><color=#FFA23A>nds to be visibl</color><color=#FFD19E>e to others, use</color> /cmd<color=#5C2D00>.</color></size>
 
 <size=75%><color=#5C2D00>Do</color><color=#8D4700>n'</color><color=#B85F00>t </color><color=#E07C0D>us</color><color=#FFA23A>e</color><color=#FFD19E>:</color></size>
 <size=75%><b>/bt [id] [role]</b></size>
@@ -145,41 +153,41 @@ Commands:<size=110%><align=center><b><color=#6B0B3B>♡ C<color=#901353>omm<colo
 
 <size=75%><color=#5C2D00>Note: The comma</color><color=#8D4700>nds mentioned a</color><color=#B85F00>bove don't mean</color><color=#E07C0D> they are the </color><color=#FFA23A>only commands </color><color=#FFD19E>that work with</color> /cmd<color=#5C2D00>. All</color><color=#8D4700> comm</color><color=#B85F00>ands </color><color=#E07C0D>work </color><color=#FFA23A>fine </color><color=#FFD19E>with</color> /cmd<color=#5C2D00>.</color></size>
 
-OnMeeting[delay=5, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FFD6E8> ✽</color></color></color></color></color></color></b></size>
+OnMeeting[delay=5, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FF86BE> ✽</color></color></color></color></color></color></b></size>
 <size=75%><b>/cmd m - <color=#5C2D00>Check the r</color><color=#8D4700>ole informa</color><color=#B85F00>tion of the</color><color=#E07C0D> role you r</color><color=#FFA23A>eceived in</color><color=#FFD19E> the game.</color></b></size>
 <size=75%><b>/cmd r - <color=#5C2D00>Chec</color><color=#8D4700>k al</color><color=#B85F00>l ac</color><color=#E07C0D>tive</color><color=#FFA23A> rol</color><color=#FFD19E>es.</color></b></size>
 <size=75%><b>/cmd r [role_name] - <color=#5C2D00>Check i</color><color=#8D4700>nformat</color><color=#B85F00>ion abo</color><color=#E07C0D>ut a sp</color><color=#FFA23A>ecific</color><color=#FFD19E> role.</color></b></size>
 <size=75%><b>/cmd bt [id] [role] - <color=#5C2D00>Guess som</color><color=#8D4700>eone's ro</color><color=#B85F00>le and ki</color><color=#E07C0D>ll them d</color><color=#FFA23A>uring the</color><color=#FFD19E> meeting.</color></b></size>
 <size=75%><b>/cmd death - <color=#5C2D00>Check how you</color><color=#8D4700> died. You ca</color><color=#B85F00>n also check </color><color=#E07C0D>another playe</color><color=#FFA23A>r's death rea</color><color=#FFD19E>son by using</color> /cmd death [id]<color=#5C2D00>. This </color><color=#8D4700>command</color><color=#B85F00> only w</color><color=#E07C0D>orks af</color><color=#FFA23A>ter yo</color><color=#FFD19E>u die.</color></b></size>
 
-OnMeeting[delay=50, hidden]: <size=110%><align=center><b><color=#6B0B3B>♡ Ot<color=#901353>her <color=#BC2B77>Info<color=#E5509B>rma<color=#FF86BE>tio<color=#FFD6E8>n ♡</color></color></color></color></color></color></b></align></size>
+OnMeeting[delay=50, hidden]: <size=110%><align=center><b><color=#6B0B3B>♡ Ot<color=#901353>her <color=#BC2B77>Info<color=#E5509B>rma<color=#FF86BE>tio<color=#FF86BE>n ♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%><color=#3B0A57>/</color><color=#60178C>t</color></size> - <size=75%>View every available tag.</color></size>
 <size=75%><color=#3B0A57>/t</color><color=#60178C> [</color><color=#7F30B9>t</color><color=#9B56D9>a</color><color=#B989EC>g</color><color=#E1C7FF>]</color></size> - <size=75%>Read information about a specific tag.</color></size>
 <size=75%><color=#3B0A57>/</color><color=#60178C>h</color><color=#7F30B9>e</color><color=#9B56D9>l</color><color=#B989EC>p</color></size> - <size=75%>View every available command.</color></size>
 
-OnMeeting[delay=60, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FFD6E8> ✽</color></color></color></color></color></color></b></size>
+OnMeeting[delay=60, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FF86BE> ✽</color></color></color></color></color></color></b></size>
 <size=75%><b>/cmd m - <color=#5C2D00>Check the r</color><color=#8D4700>ole informa</color><color=#B85F00>tion of the</color><color=#E07C0D> role you r</color><color=#FFA23A>eceived in</color><color=#FFD19E> the game.</color></b></size>
 <size=75%><b>/cmd r - <color=#5C2D00>Chec</color><color=#8D4700>k al</color><color=#B85F00>l ac</color><color=#E07C0D>tive</color><color=#FFA23A> rol</color><color=#FFD19E>es.</color></b></size>
 <size=75%><b>/cmd r [role_name] - <color=#5C2D00>Check i</color><color=#8D4700>nformat</color><color=#B85F00>ion abo</color><color=#E07C0D>ut a sp</color><color=#FFA23A>ecific</color><color=#FFD19E> role.</color></b></size>
 <size=75%><b>/cmd bt [id] [role] - <color=#5C2D00>Guess som</color><color=#8D4700>eone's ro</color><color=#B85F00>le and ki</color><color=#E07C0D>ll them d</color><color=#FFA23A>uring the</color><color=#FFD19E> meeting.</color></b></size>
 <size=75%><b>/cmd death - <color=#5C2D00>Check how you</color><color=#8D4700> died. You ca</color><color=#B85F00>n also check </color><color=#E07C0D>another playe</color><color=#FFA23A>r's death rea</color><color=#FFD19E>son by using</color> /cmd death [id]<color=#5C2D00>. This </color><color=#8D4700>command</color><color=#B85F00> only w</color><color=#E07C0D>orks af</color><color=#FFA23A>ter yo</color><color=#FFD19E>u die.</color></b></size>
 
-OnMeeting[delay=150, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FFD6E8> ✽</color></color></color></color></color></color></b></size>
+OnMeeting[delay=150, hidden]:<size=110%><b><color=#6B0B3B>✽ <color=#901353>Co<color=#BC2B77>mm<color=#E5509B>an<color=#FF86BE>ds<color=#FF86BE> ✽</color></color></color></color></color></color></b></size>
 <size=75%><b>/cmd m - <color=#5C2D00>Check the r</color><color=#8D4700>ole informa</color><color=#B85F00>tion of the</color><color=#E07C0D> role you r</color><color=#FFA23A>eceived in</color><color=#FFD19E> the game.</color></b></size>
 <size=75%><b>/cmd r - <color=#5C2D00>Chec</color><color=#8D4700>k al</color><color=#B85F00>l ac</color><color=#E07C0D>tive</color><color=#FFA23A> rol</color><color=#FFD19E>es.</color></b></size>
 <size=75%><b>/cmd r [role_name] - <color=#5C2D00>Check i</color><color=#8D4700>nformat</color><color=#B85F00>ion abo</color><color=#E07C0D>ut a sp</color><color=#FFA23A>ecific</color><color=#FFD19E> role.</color></b></size>
 <size=75%><b>/cmd bt [id] [role] - <color=#5C2D00>Guess som</color><color=#8D4700>eone's ro</color><color=#B85F00>le and ki</color><color=#E07C0D>ll them d</color><color=#FFA23A>uring the</color><color=#FFD19E> meeting.</color></b></size>
 <size=75%><b>/cmd death - <color=#5C2D00>Check how you</color><color=#8D4700> died. You ca</color><color=#B85F00>n also check </color><color=#E07C0D>another playe</color><color=#FFA23A>r's death rea</color><color=#FFD19E>son by using</color> /cmd death [id]<color=#5C2D00>. This </color><color=#8D4700>command</color><color=#B85F00> only w</color><color=#E07C0D>orks af</color><color=#FFA23A>ter yo</color><color=#FFD19E>u die.</color></b></size>
 
-HowToPlay:<size=110%><align=center><b><color=#6B0B3B>♡ EN<color=#901353>DLES<color=#BC2B77>S HO<color=#E5509B>ST R<color=#FF86BE>OLE<color=#FFD6E8>S ♡</color></color></color></color></color></color>
+HowToPlay:<size=110%><align=center><b><color=#6B0B3B>♡ EN<color=#901353>DLES<color=#BC2B77>S HO<color=#E5509B>ST R<color=#FF86BE>OLE<color=#FF86BE>S ♡</color></color></color></color></color></color>
 <size=75%><color=#3B0A57>✽ Q</color><color=#60178C>UIC</color><color=#7F30B9>K G</color><color=#9B56D9>UI</color><color=#B989EC>DE</color><color=#E1C7FF> ✽</color></b></align></size></size>
 
 <size=50%><align=center>(Guide by @iam._.steve on Discord)</color></align></size>
 
 <size=80%>EHR is a pretty complicated mod, but don't worry! I'm here to teach you all the basics of the game so you can become the best player there is! First off, let's start with the most integral part of the mod...</color></size>
 
-<size=110%><align=center><b><color=#6B0B3B>✽ <color=#901353>RO<color=#BC2B77>LE<color=#E5509B>S<color=#FF86BE> <color=#FFD6E8>✽</color></color></color></color></color></color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ <color=#901353>RO<color=#BC2B77>LE<color=#E5509B>S<color=#FF86BE> <color=#FF86BE>✽</color></color></color></color></color></color></b></align></size>
 
 <size=80%>Each player will be assigned a role at the start of the game. There are 4 role types: <color=#ff1919>Impostor</color>, <color=#8cffff>Crewmate</color>, <color=#222222>Neutral</color>, and Add-Ons</color>.</color></size>
 
@@ -194,7 +202,7 @@ HowToPlay:<size=110%><align=center><b><color=#6B0B3B>♡ EN<color=#901353>DLES<c
 
 <size=75%>It is important to remember that nobody should reveal their role unless they have a reason to do so (e.g. <color=#b8fb4f>Snitch</color> finishing their tasks to out the <color=#ff1919>Impostors</color>).</color></size>
 
-<size=110%><align=center><b><color=#6B0B3B>✽ C<color=#901353>HAT<color=#BC2B77> CO<color=#E5509B>MMA<color=#FF86BE>NDS<color=#FFD6E8> ♡</color></color></color></color></color></color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ C<color=#901353>HAT<color=#BC2B77> CO<color=#E5509B>MMA<color=#FF86BE>NDS<color=#FF86BE> ♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Chat commands are a very useful asset, and each one has its own useful effect. Examples of some meeting commands can be found below:</color></size>
 
@@ -206,11 +214,11 @@ HowToPlay:<size=110%><align=center><b><color=#6B0B3B>♡ EN<color=#901353>DLES<c
 
 <size=75%><color=#3B0A57>/l </color><color=#60178C>(no</color><color=#7F30B9>t </color><color=#9B56D9>i,</color><color=#B989EC> L</color><color=#E1C7FF>):</color> Used in the lobby to show the results of the previous game. Displays who died to whom, everyone's roles, and who won the last game. Usually, hosts will make this message appear automatically after the round ends.</color></size>
 
-<size=110%><align=center><b><color=#6B0B3B>✽ <color=#901353>GU<color=#BC2B77>ES<color=#E5509B>SI<color=#FF86BE>NG<color=#FFD6E8> ✽</color></color></color></color></color></color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ <color=#901353>GU<color=#BC2B77>ES<color=#E5509B>SI<color=#FF86BE>NG<color=#FF86BE> ✽</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Guessing, or variants of guessing, are abilities that can be used by a select few roles. Usually, they involve guessing a certain player's role in order to kill them during a meeting or achieve other effects. Sometimes, hosts will make it so entire teams or even all players can guess.</color></size>
 
-<size=110%><align=center><b><color=#6B0B3B>✽ H<color=#901353>OW <color=#BC2B77>TO <color=#E5509B>GUE<color=#FF86BE>SS<color=#FFD6E8> ✽</color></color></color></color></color></color></b></align></size>
+<size=110%><align=center><b><color=#6B0B3B>✽ H<color=#901353>OW <color=#BC2B77>TO <color=#E5509B>GUE<color=#FF86BE>SS<color=#FF86BE> ✽</color></color></color></color></color></color></b></align></size>
 
 <size=75%>This guide will show the most common way to guess using the /cmd bt command.</color></size>
 
@@ -225,10 +233,10 @@ HowToPlay:<size=110%><align=center><b><color=#6B0B3B>♡ EN<color=#901353>DLES<c
 
 <size=75%>Now, you should be caught up on all things EHR-related. Now go out there and win some games!</color></size>
 
-FAQ:<size=110%><align=center><b><color=#6B0B3B>♡ Fre<color=#901353>quent<color=#BC2B77>ly As<color=#E5509B>ked Q<color=#FF86BE>uesti<color=#FFD6E8>ons ♡</color></color></color></color></color></color></b></align></size>
+FAQ:<size=110%><align=center><b><color=#6B0B3B>♡ Fre<color=#901353>quent<color=#BC2B77>ly As<color=#E5509B>ked Q<color=#FF86BE>uesti<color=#FF86BE>ons ♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%><color=#3B0A57>Q. I'm</color><color=#60178C> new. </color><color=#7F30B9>Where </color><color=#9B56D9>shoul</color><color=#B989EC>d I s</color><color=#E1C7FF>tart?</color></size>
-<size=75%>Read /t How To Play first, then /t Commands.</color></size>
+<size=75%>Read /t HowToPlay first, then /t Commands.</color></size>
 <size=75%><color=#3B0A57>Q. I'</color><color=#60178C>m dea</color><color=#7F30B9>d. Sh</color><color=#9B56D9>ould </color><color=#B989EC>I le</color><color=#E1C7FF>ave?</color></size>
 <size=75%>No. Stay until the game ends. Some roles can still use abilities after death.</color></size>
 <size=75%><color=#3B0A57>Q. How</color><color=#60178C> do I </color><color=#7F30B9>know w</color><color=#9B56D9>hat my</color><color=#B989EC> role </color><color=#E1C7FF>does?</color></size>
@@ -274,13 +282,15 @@ FAQ:<size=110%><align=center><b><color=#6B0B3B>♡ Fre<color=#901353>quent<color
 <size=75%><color=#3B0A57>Q. Wher</color><color=#60178C>e can I</color><color=#7F30B9> see ev</color><color=#9B56D9>ery av</color><color=#B989EC>ailabl</color><color=#E1C7FF>e tag?</color></size>
 <size=75%>Use /t.</color></size>
 <size=75%><color=#3B0A57>Q. Wha</color><color=#60178C>t shou</color><color=#7F30B9>ld I d</color><color=#9B56D9>o if I</color><color=#B989EC>'m con</color><color=#E1C7FF>fused?</color></size>
-<size=75%>Read /t How To Play, /t Commands, and /cmd m.</color></size>
+<size=75%>Read /t HowToPlay, /t Commands, and /cmd m.</color></size>
 <size=75%><color=#3B0A57>Q. Can </color><color=#60178C>I leave</color><color=#7F30B9> in the</color><color=#9B56D9> middl</color><color=#B989EC>e of a</color><color=#E1C7FF> game?</color></size>
 <size=75%>Please don't. It ruins the experience for everyone.</color></size>
 <size=75%><color=#3B0A57>Q. Ar</color><color=#60178C>e be</color><color=#7F30B9>ginn</color><color=#9B56D9>ers </color><color=#B989EC>welc</color><color=#E1C7FF>ome?</color></size>
 <size=75%>Absolutely! Everyone starts somewhere. Just be willing to learn.</color></size>
 <size=75%><color=#3B0A57>Q. I</color><color=#60178C> sti</color><color=#7F30B9>ll n</color><color=#9B56D9>eed</color><color=#B989EC> he</color><color=#E1C7FF>lp.</color></size>
 <size=75%>DM @iam._.steve or @unoxlucky</color> on Discord.</color></size>
+
+# ALL COMMANDS DETAILED DISCRIPTION
 
 lt[hidden]:
 <size=110%><b>Command Name - /lt</b></size>
