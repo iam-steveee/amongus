@@ -10,7 +10,7 @@ Guide:<size=110%><b><color=#6B0B3B>✽ Re<color=#901353>comm<color=#BC2B77>ende<
 <size=75%><color=#3B0A57>/t</color><color=#60178C> [</color><color=#7F30B9>t</color><color=#9B56D9>a</color><color=#B989EC>g</color><color=#E1C7FF>]</color></size> - <size=75%>Read information about a specific tag.</size>
 <size=75%><color=#3B0A57>/t</color><color=#60178C> C</color><color=#7F30B9>om</color><color=#9B56D9>ma</color><color=#B989EC>nd</color><color=#E1C7FF>s</color></size> - <size=75%>View every important in-game command.</size>
 
-Welcome[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡Welc<color=#901353>ome, L<color=#BC2B77>adies <color=#E5509B>and Ge<color=#FF86BE>ntal M<color=#FF86BE>en!♡</color></color></color></color></color></color></b></align></size>
+Welcome[hidden]:<size=110%><align=center><b><color=#6B0B3B>♡Welc<color=#901353>ome, L<color=#BC2B77>adies <color=#E5509B>and Ge<color=#FF86BE>ntleM<color=#FF86BE>en!♡</color></color></color></color></color></color></b></align></size>
 
 <size=75%>Lobby Host</color></size>: <size=75%>{{HostName}}</color></size>
 <size=75%>Discord Username</color></size>: <size=75%>@iam._.steve</color></size>
